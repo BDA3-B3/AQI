@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AQI Drivers & Influencing Factors</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,500;9..144,700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="assets/css/styles.css" />
+  </head>
+  <body class="theme-neutral app-loading">
+    <div id="introOverlay" class="intro-overlay" aria-live="polite">
+      <div class="intro-backdrop"></div>
+      <div class="intro-whiteout"></div>
+      <div class="intro-orb"></div>
+      <div id="introPhrases" class="intro-phrases"></div>
+      <div class="intro-center">
+        <h1 id="introTitle" class="intro-title">AQI Drivers &amp; Influencing Factors</h1>
+        <p class="intro-subtitle">Understanding what shapes air quality in your city</p>
+      </div>
+      <button id="skipIntroBtn" type="button" class="skip-intro-btn">Skip</button>
+    </div>
+
+    <div class="bg-shape bg-shape-a"></div>
+    <div class="bg-shape bg-shape-b"></div>
+
+    <div id="modelIssuePopup" class="model-popup hidden" role="status" aria-live="polite">
+      <p class="model-popup-title">! Model Availability Notice</p>
+      <ul id="modelIssueList" class="model-popup-list"></ul>
+    </div>
+
+    <main>
+      <section class="hero section-block">
+        <div class="container">
+          <p class="eyebrow">AQI Analytics and Forecasting</p>
+          <h1 id="heroMainTitle">AQI Drivers &amp; Influencing Factors</h1>
+          <p class="hero-copy">
+            Explore historical AQI behavior, identify dominant pollutant contributors, inspect weather and demographic influence,
+            and forecast future monthly AQI trends.
+          </p>
+
+          <div class="search-row card-soft">
+            <label class="sr-only" for="citySearch">Search city</label>
+            <input id="citySearch" list="cityOptions" type="text" placeholder="Search city or country" />
+            <datalist id="cityOptions"></datalist>
+            <button id="searchBtn" type="button">Open Dashboard</button>
+          </div>
+
+          <p id="heroStatus" class="status-text">Loading city index...</p>
+        </div>
+      </section>
+
+      <section class="section-block map-block" id="citySelectionSection">
+        <div class="container">
+          <div class="section-title-row">
+            <h2>Global City Map</h2>
+            <span class="status-chip">Interactive markers</span>
+          </div>
+          <p class="subtle-text">Markers use real city coordinates when available, with country-based fallback only if a city lookup is missing.</p>
+
+          <div id="cityMapWrap" class="card-panel map-panel">
+            <div id="cityMap"></div>
+          </div>
+
+          <div class="quick-cities-head">
+            <h3>Quick Access Cities</h3>
+            <p class="subtle-text">Pick a city to load the full dashboard.</p>
+          </div>
+          <div id="quickCityCards" class="quick-cards"></div>
+        </div>
+      </section>
+
+      <section id="dashboard" class="section-block dashboard-block hidden">
+        <div class="container">
+          <header class="card-panel dashboard-header">
+            <div>
+              <p class="eyebrow">Selected City</p>
+              <h2 id="selectedCityName">-</h2>
+              <p id="selectedCityCountry" class="subtle-text">-</p>
+            </div>
+            <div class="header-side">
+              <span id="aqiBadge" class="aqi-badge">AQI -</span>
+              <p id="dataTill" class="subtle-text">Data available till -</p>
+            </div>
+          </header>
+
+          <section class="dashboard-section" id="historicalSection">
+            <div class="section-title-row">
+              <h3>Historical AQI Patterns</h3>
+              <span class="status-chip">Trends</span>
+            </div>
+
+            <div class="control-grid card-soft">
+              <div class="factor-panel">
+                <label class="control-title" for="factorDropdownBtn">Select Factors</label>
+                <button id="factorDropdownBtn" type="button" class="factor-dropdown-btn">Choose Factors</button>
+              </div>
+
+              <div class="range-slicer-grid">
+                <div class="range-slicer" id="yearSlicer">
+                  <p class="control-title">Year Range</p>
+                  <div class="range-values">
+                    <input id="yearStartValue" type="text" />
+                    <input id="yearEndValue" type="text" />
+                  </div>
+                  <div class="range-track-wrap">
+                    <input id="yearStartRange" type="range" />
+                    <input id="yearEndRange" type="range" />
+                  </div>
+                </div>
+                <div class="range-slicer" id="monthSlicer">
+                  <p class="control-title">Month Range</p>
+                  <div class="range-values">
+                    <input id="monthStartValue" type="text" />
+                    <input id="monthEndValue" type="text" />
+                  </div>
+                  <div class="range-track-wrap">
+                    <input id="monthStartRange" type="range" min="1" max="12" />
+                    <input id="monthEndRange" type="range" min="1" max="12" />
+                  </div>
+                </div>
+              </div>
+
+            </div>
+
+            <div id="historicalSkeleton" class="skeleton-panel">
+              <div class="skeleton-line"></div>
+              <p>Analyzing historical AQI patterns...</p>
+            </div>
+
+            <div class="card-panel chart-card hidden" id="historicalChartWrap">
+              <button id="chartExpandFab" type="button" class="chart-expand-fab" aria-label="Expand chart">↗</button>
+              <canvas id="historicalChart"></canvas>
+            </div>
+            <p id="historicalStatus" class="status-text"></p>
+          </section>
+
+          <section class="dashboard-section two-col">
+            <div class="card-panel factor-card">
+              <div class="section-title-row">
+                <h3>Factor Analysis</h3>
+                <span class="status-chip">Random Forest</span>
+              </div>
+              <p class="subtle-text">Most contributing pollutant to AQI</p>
+              <div id="factorTopPollutant" class="factor-highlight">-</div>
+              <p id="factorContribution" class="status-text"></p>
+              <div id="factorChartWrap" class="chart-inline">
+                <canvas id="factorChart"></canvas>
+              </div>
+            </div>
+
+            <div class="card-panel influence-card">
+              <div class="section-title-row">
+                <h3>Pollutant Influence</h3>
+                <span class="status-chip">City Correlation</span>
+              </div>
+              <p id="influenceSubtitle" class="subtle-text">Loading pollutant influence...</p>
+              <div class="influence-grid">
+                <div>
+                  <h4 class="positive">Positive Influence ↑</h4>
+                  <ul id="positiveInfluenceList" class="influence-list"></ul>
+                </div>
+                <div>
+                  <h4 class="negative">Negative Influence ↓</h4>
+                  <ul id="negativeInfluenceList" class="influence-list"></ul>
+                </div>
+              </div>
+
+              <button id="toggleCompareBtn" type="button" class="secondary-btn">Compare Trends</button>
+              <div id="compareChartWrap" class="chart-inline hidden">
+                <div class="mini-slicer-card">
+                  <div class="mini-range-slicer">
+                    <span>Year</span>
+                    <div class="mini-values">
+                      <input id="compareYearStartValue" type="text" />
+                      <input id="compareYearEndValue" type="text" />
+                    </div>
+                    <div class="range-track-wrap mini">
+                      <input id="compareYearStartRange" type="range" />
+                      <input id="compareYearEndRange" type="range" />
+                    </div>
+                  </div>
+                  <div class="mini-range-slicer">
+                    <span>Month</span>
+                    <div class="mini-values">
+                      <input id="compareMonthStartValue" type="text" />
+                      <input id="compareMonthEndValue" type="text" />
+                    </div>
+                    <div class="range-track-wrap mini">
+                      <input id="compareMonthStartRange" type="range" min="1" max="12" />
+                      <input id="compareMonthEndRange" type="range" min="1" max="12" />
+                    </div>
+                  </div>
+                </div>
+                <div class="chart-scroll-x">
+                  <canvas id="compareChart"></canvas>
+                </div>
+              </div>
+            </div>
+          </section>
+
+          <section class="dashboard-section">
+            <div class="card-panel">
+              <div class="section-title-row">
+                <h3>Demographic Context</h3>
+                <span class="status-chip">City Profile</span>
+              </div>
+              <div id="metricGauges" class="gauge-row"></div>
+            </div>
+          </section>
+
+          <section class="dashboard-section" id="forecastSection">
+            <div class="section-title-row">
+              <h3>Future Prediction</h3>
+              <span class="status-chip">XGBoost Forecast</span>
+            </div>
+            <button id="predictBtn" type="button" class="primary-cta">View Future AQI Prediction</button>
+            <div id="forecastSkeleton" class="skeleton-panel hidden">
+              <div class="skeleton-line"></div>
+              <p>Analyzing future trends using ML...</p>
+            </div>
+            <div id="forecastChartWrap" class="card-panel chart-card hidden">
+              <canvas id="forecastChart"></canvas>
+            </div>
+            <p id="forecastStatus" class="status-text"></p>
+            <div id="forecastAlerts" class="alert-list"></div>
+          </section>
+        </div>
+      </section>
+    </main>
+
+    <button id="scrollUpBtn" type="button" class="float-nav up hidden" aria-label="Scroll up">↑</button>
+    <button id="scrollDownBtn" type="button" class="float-nav down hidden" aria-label="Scroll down">↓</button>
+
+    <div id="factorDropdownPanel" class="factor-dropdown-panel hidden">
+      <div id="factorChecklist" class="factor-checklist"></div>
+    </div>
+
+    <div id="chartModal" class="modal hidden" aria-hidden="true">
+      <div class="modal-content card-panel">
+        <div class="section-title-row">
+          <h3>Expanded Historical Chart</h3>
+          <button id="closeModalBtn" type="button" class="secondary-btn">Close</button>
+        </div>
+        <div class="modal-slicer-grid">
+          <div class="range-slicer compact">
+            <p class="control-title">Year Range</p>
+            <div class="range-values">
+              <input id="modalYearStartValue" type="text" />
+              <input id="modalYearEndValue" type="text" />
+            </div>
+            <div class="range-track-wrap">
+              <input id="modalYearStart" type="range" />
+              <input id="modalYearEnd" type="range" />
+            </div>
+          </div>
+          <div class="range-slicer compact">
+            <p class="control-title">Month Range</p>
+            <div class="range-values">
+              <input id="modalMonthStartValue" type="text" />
+              <input id="modalMonthEndValue" type="text" />
+            </div>
+            <div class="range-track-wrap">
+              <input id="modalMonthStart" type="range" min="1" max="12" />
+              <input id="modalMonthEnd" type="range" min="1" max="12" />
+            </div>
+          </div>
+        </div>
+        <canvas id="fullscreenChart"></canvas>
+      </div>
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="assets/js/main.js"></script>
+  </body>
+</html>

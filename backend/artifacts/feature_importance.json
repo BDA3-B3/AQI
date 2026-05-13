@@ -1,0 +1,49 @@
+{
+  "model": "RandomForestRegressor",
+  "objective": "AQI pollutant-level importance",
+  "target": "AQI",
+  "features": [
+    "PM2.5",
+    "PM10",
+    "NO2",
+    "SO2",
+    "CO",
+    "O3",
+    "NH3"
+  ],
+  "top_pollutant": "PM2.5",
+  "metrics": {
+    "mae": 1.077553,
+    "r2": 0.946325
+  },
+  "feature_importance": [
+    {
+      "pollutant": "PM2.5",
+      "importance": 0.88182924
+    },
+    {
+      "pollutant": "PM10",
+      "importance": 0.08497228
+    },
+    {
+      "pollutant": "CO",
+      "importance": 0.0113214
+    },
+    {
+      "pollutant": "NO2",
+      "importance": 0.00926838
+    },
+    {
+      "pollutant": "O3",
+      "importance": 0.00542772
+    },
+    {
+      "pollutant": "SO2",
+      "importance": 0.00367269
+    },
+    {
+      "pollutant": "NH3",
+      "importance": 0.0035083
+    }
+  ]
+}

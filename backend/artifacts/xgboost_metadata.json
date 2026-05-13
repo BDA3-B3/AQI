@@ -1,0 +1,33 @@
+{
+  "model": "XGBRegressor",
+  "target": "aqi",
+  "features": [
+    "month_number",
+    "year",
+    "city_encoded",
+    "aqi_lag_1",
+    "aqi_lag_2",
+    "temperature",
+    "humidity",
+    "wind_speed",
+    "rainfall",
+    "visibility"
+  ],
+  "split_year": 2024,
+  "best_iteration": 117,
+  "params": {
+    "n_estimators": 300,
+    "learning_rate": 0.07,
+    "max_depth": 6,
+    "subsample": 0.8,
+    "colsample_bytree": 0.8,
+    "n_jobs": 12,
+    "random_state": 42,
+    "early_stopping_rounds": 40
+  },
+  "metrics": {
+    "mae": 2.557753,
+    "rmse": 6.339187,
+    "r2": 0.939809
+  }
+}

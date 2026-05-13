@@ -1,0 +1,2110 @@
+city_id,city_name,country_id,State
+1,Aberdeen,1,South Dakota
+2,"Aberdeen, WA",1,Washington
+3,Abu Dhabi,2,Abu Dhabi
+4,Abuja,3,FCT
+5,Accra,4,Greater Accra
+6,Adams,1,Massachusetts
+8,Addis Ababa,5,Addis Ababa
+9,Adelaide,6,SA
+11,Adjuntas,1,Puerto Rico
+12,Agartala,7,Tripura
+13,Agra,7,Uttar Pradesh
+14,Ahmedabad,7,Gujarat
+16,Air Force Academy,1,Colorado
+17,Aizawl,7,Mizoram
+18,Ajmer,7,Rajasthan
+19,Ajo,1,Arizona
+20,Ak-Chin Village,1,Arizona
+21,Akola,7,Maharashtra
+22,Akron,1,Ohio
+23,"Akron, OH",1,Ohio
+24,Alamosa,1,Colorado
+25,Alappuzha,7,Kerala
+26,Albany,1,Georgia
+28,"Albany-Schenectady-Troy, NY",1,New York
+29,Albuquerque,1,New Mexico
+30,"Albuquerque, NM",1,New Mexico
+31,Alcoa,1,Tennessee
+32,Alexandria,8,Alexandria
+33,Alexandria,1,Louisiana
+34,Algiers,9,Algiers
+38,Allen Park,1,Michigan
+39,Allentown,1,Pennsylvania
+40,"Allentown-Bethlehem-Easton, PA-NJ",1,Pennsylvania
+41,Alliance,1,Ohio
+42,Alpine,1,California
+43,Alsip,1,Illinois
+44,Altamont,1,Oregon
+45,Alton,1,Illinois
+46,Altoona,1,Pennsylvania
+47,Alwar,7,Rajasthan
+48,Amaravati,7,Andhra Pradesh
+49,Amarillo,1,Texas
+50,"Amarillo, TX",1,Texas
+51,Ambala,7,Haryana
+53,Amherst,1,New York
+55,Amman,10,Amman
+57,Amravati,7,Maharashtra
+58,Amritsar,7,Punjab
+59,Amsterdam,11,Noord-Holland
+61,Anacortes,1,Washington
+62,Anadarko,1,Oklahoma
+63,Anaheim,1,California
+65,Anchorage,1,Alaska
+66,"Anchorage, AK",1,Alaska
+67,Anderson,1,California
+68,Angul,7,Odisha
+69,Ankara,12,Ankara
+70,Ankleshwar,7,Gujarat
+71,"Ann Arbor, MI",1,Michigan
+72,Annandale,1,Virginia
+73,Anpara,7,Uttar Pradesh
+74,Anthony,1,New Mexico
+75,Apache,1,Arizona
+76,Apache Junction,1,Arizona
+77,Apollo Beach,1,Florida
+78,Apple Valley,1,Minnesota
+79,Appleton,1,Wisconsin
+80,Applewood,1,Colorado
+81,Aquia Harbour,1,Virginia
+82,Aquinnah,1,Massachusetts
+85,Archuleta,1,Colorado
+86,Arden-Arcade,1,California
+87,"Ardmore, OK",1,Oklahoma
+89,"Arkadelphia, AR",1,Arkansas
+90,Arlington,1,Texas
+91,Arnold,1,Missouri
+92,Aroostook,1,Maine
+94,Arroyo Grande,1,California
+95,Artesia,1,New Mexico
+96,Arvada,1,Colorado
+97,Arvin,1,California
+98,Asansol,7,West Bengal
+99,Asheville,1,North Carolina
+100,"Asheville, NC",1,North Carolina
+101,Ashland,1,Alabama
+103,Aspen,1,Colorado
+104,Aspen Park,1,Colorado
+106,Atascadero,1,California
+107,Athens,13,Attica
+108,Athens,1,Ohio
+109,Athens (corp name Athens-Clarke County),1,Georgia
+110,"Athens, OH",1,Ohio
+111,"Athens, TN",1,Tennessee
+112,Atlanta,1,Georgia
+113,"Atlanta-Sandy Springs-Roswell, GA",1,Georgia
+114,Atlantic City,1,New Jersey
+115,Auburn,1,California
+116,Auckland,14,Auckland
+117,Augusta,1,Georgia
+118,Augusta-Richmond County (Remainder),1,Georgia
+119,"Augusta-Richmond County, GA-SC",1,South Carolina
+120,Aurangabad,7,Maharashtra
+122,Aurora,1,Illinois
+123,Austin,1,Texas
+124,Avalon,1,Pennsylvania
+125,Avery,1,North Carolina
+126,Avon,1,Indiana
+128,Azusa,1,California
+129,BAJA CALIFORNIA NORTE,1,Country Of Mexico
+130,Baddi,7,Himachal Pradesh
+131,Badlapur,7,Maharashtra
+133,Baghdad,15,Baghdad
+134,Baghpat,7,Uttar Pradesh
+135,Bahadurgarh,7,Haryana
+137,Baker City,1,Oregon
+138,Bakersfield,1,California
+139,"Bakersfield, CA",1,California
+140,Balasore,7,Odisha
+142,Ballabgarh,7,Haryana
+143,Baltimore,1,Maryland
+144,"Baltimore-Columbia-Towson, MD",1,Maryland
+146,Bangkok,16,Bangkok
+147,Bangor,1,Maine
+148,"Bangor, ME",1,Maine
+150,Banning,1,California
+154,"Baraboo, WI",1,Wisconsin
+159,Barcelona,17,Catalonia
+161,Bareilly,7,Uttar Pradesh
+166,Barrackpore,7,West Bengal
+168,Barstow,1,California
+171,Batavia,1,Ohio
+172,Bath,1,North Carolina
+173,Bathinda,7,Punjab
+174,Baton Rouge,1,Louisiana
+175,"Baton Rouge, LA",1,Louisiana
+176,Battlement Mesa,1,Colorado
+177,Bay City,1,Michigan
+178,Bayamon,1,Puerto Rico
+179,Bayonne,1,New Jersey
+180,Bayport,1,Minnesota
+181,Bayside,1,Wisconsin
+182,Baytown,1,Texas
+184,Beaumont,1,Texas
+185,"Beaumont-Port Arthur, TX",1,Texas
+186,"Beaver Dam, WI",1,Wisconsin
+187,Beaver Falls,1,Pennsylvania
+188,Beaverton,1,Oregon
+189,Beckley,1,West Virginia
+190,Beech Bottom,1,West Virginia
+192,Beijing,18,Beijing
+193,Beirut,19,Beirut
+194,Belagavi,7,Karnataka
+196,Belle Glade,1,Florida
+197,Belleville,1,Illinois
+198,Bellevue,1,Nebraska
+199,Bellingham,1,Washington
+200,"Bellingham, WA",1,Washington
+201,Belo Horizonte,20,MG
+202,Beloit,1,Wisconsin
+204,Beltsville,1,Maryland
+205,Bend,1,Oregon
+206,Benewah,1,Idaho
+207,Bengaluru,7,Karnataka
+208,Bennington,1,Vermont
+209,"Bennington, VT",1,Vermont
+210,Bensley,1,Virginia
+211,Bent Creek,1,North Carolina
+212,Benzonia,1,Michigan
+213,Berea,1,Ohio
+214,Berhampur,7,Odisha
+216,Berlin,21,Berlin
+218,"Berlin, NH-VT",1,New Hampshire
+219,Bernalillo,1,New Mexico
+220,Bessemer,1,Alabama
+222,Bethel Island,1,California
+227,Bhilai,7,Chhattisgarh
+229,Bhiwadi,7,Rajasthan
+231,Bhiwani,7,Haryana
+232,Bhopal,7,Madhya Pradesh
+233,Bhubaneswar,7,Odisha
+236,Bidar,7,Karnataka
+237,Big Bear City,1,California
+238,Big Horn,1,Montana
+239,Big Spring,1,Texas
+240,Biglerville,1,Pennsylvania
+243,Bilaspur,7,Chhattisgarh
+245,Billings,1,Montana
+246,"Billings, MT",1,Montana
+248,Birmingham,22,England
+249,Birmingham,1,Alabama
+250,"Birmingham-Hoover, AL",1,Alabama
+253,Bishop,1,California
+254,"Bishop, CA",1,California
+255,Bismarck,1,North Dakota
+256,"Bismarck, ND",1,North Dakota
+258,"Blacksburg-Christiansburg-Radford, VA",1,Virginia
+260,Blaine,1,Minnesota
+261,Blair,1,Nebraska
+262,Blakely,1,Pennsylvania
+263,Bloomfield,1,New Mexico
+264,Bloomingdale,1,Tennessee
+265,Bloomington,1,Indiana
+266,"Bloomington, IN",1,Indiana
+267,Blue Ash,1,Ohio
+268,Blue Island,1,Illinois
+269,Blue Point (District),1,Arizona
+270,Blyn,1,Washington
+271,Blythe,1,California
+273,Bogota,23,Bogota
+275,Boise (corporate name Boise City),1,Idaho
+276,"Boise City, ID",1,Idaho
+279,Bondville,1,Illinois
+280,Bongaigaon,7,Assam
+281,Boone,1,North Carolina
+282,Boonville,1,Indiana
+283,Borger,1,Texas
+284,Boston,1,Massachusetts
+285,Boulder,1,Colorado
+286,Boulder City,1,Nevada
+287,"Boulder, CO",1,Colorado
+288,Boulevard,1,California
+289,Bountiful,1,Utah
+290,Bowling Green,1,Kentucky
+291,"Bowling Green, KY",1,Kentucky
+292,Bozeman,1,Montana
+293,"Bozeman, MT",1,Montana
+295,Bradenton,1,Florida
+296,Braidwood,1,Illinois
+297,Brainerd,1,Minnesota
+298,"Brainerd, MN",1,Minnesota
+299,Brajrajnagar,7,Odisha
+301,Branson,1,Missouri
+302,"Branson, MO",1,Missouri
+303,Brasilia,20,DF
+305,Brawley,1,California
+306,Breckenridge,1,Colorado
+307,Bremerton,1,Washington
+308,"Bremerton-Silverdale, WA",1,Washington
+309,Brewster,1,Ohio
+311,Bridgeport,1,Connecticut
+312,Bridgeton,1,Missouri
+313,Brigham City,1,Utah
+315,Brisbane,6,Queensland
+316,Bristol,1,Indiana
+317,Brockton,1,Massachusetts
+318,Brook Park,1,Ohio
+319,Brookhurst,1,Wyoming
+320,Brookings,1,South Dakota
+321,"Brookings, SD",1,South Dakota
+322,Brownsville,1,Texas
+324,Brunswick,1,Georgia
+325,Brussels,24,Brussels
+326,Bryson City (RR name Bryson),1,North Carolina
+327,Bucharest,25,Bucharest
+328,Buckeye,1,Arizona
+329,Buckner,1,Kentucky
+330,"Bucyrus, OH",1,Ohio
+331,Budapest,26,Budapest
+332,Buenos Aires,27,BA
+333,Buffalo,1,Iowa
+334,Bulandshahr,7,Uttar Pradesh
+335,Bullhead City,1,Arizona
+337,Bunnell,1,Florida
+338,Burbank,1,California
+339,Burke,1,North Dakota
+340,Burlington,1,New Jersey
+341,Burns,1,Oregon
+342,Busan,28,Busan
+343,Butner,1,North Carolina
+344,Butte-Silver Bow (Remainder),1,Montana
+348,Byrnihat,7,Meghalaya
+349,"Cadillac, MI",1,Michigan
+350,Caguas,1,Puerto Rico
+351,Cairo,8,Cairo
+352,Calais,1,Maine
+353,Calera,1,Alabama
+354,Calexico,1,California
+355,Calgary,29,Alberta
+356,Calvert City (RR name Calvert),1,Kentucky
+357,"Cambridge, MD",1,Maryland
+358,Camden,1,New Jersey
+359,Camp Pendleton South,1,California
+360,Campo,1,California
+361,Candor,1,North Carolina
+362,Canon City,1,Colorado
+363,Canton,1,Ohio
+364,Cape Coral,1,Florida
+365,Cape Town,30,Western Cape
+366,Capitan,1,California
+367,Caracas,31,Capital
+368,Carbon,1,Wyoming
+369,Carbondale,1,Illinois
+371,Carlisle,1,Pennsylvania
+372,Carlsbad,1,New Mexico
+373,"Carlsbad-Artesia, NM",1,New Mexico
+374,Carlyss,1,Louisiana
+376,Carmel Valley Village,1,California
+377,Carpinteria,1,California
+378,Carroll,1,Virginia
+379,Carson City,1,Nevada
+380,Carter,1,Kentucky
+381,Cary,1,Illinois
+382,Casa Grande,1,Arizona
+383,Casablanca,32,Casablanca-Settat
+384,Casper,1,Wyoming
+386,Cassopolis,1,Michigan
+387,Casstown,1,Ohio
+388,Castle Hayne,1,North Carolina
+390,Caswell,1,North Carolina
+391,Catano,1,Puerto Rico
+392,Catron,1,New Mexico
+393,Cave Creek,1,Arizona
+394,Cave Junction,1,Oregon
+395,Cayce,1,South Carolina
+396,Cedar,1,Missouri
+397,Cedar Rapids,1,Iowa
+398,Cedarhurst,1,New York
+399,Centerburg,1,Ohio
+400,Central Point,1,Oregon
+401,"Centralia, WA",1,Washington
+402,Chaffee,1,Colorado
+403,Chalmette,1,Louisiana
+405,"Chambersburg-Waynesboro, PA",1,Pennsylvania
+406,Champaign,1,Illinois
+408,Chandigarh,7,Chandigarh
+409,Chandler,1,Arizona
+410,Chandrapur,7,Maharashtra
+412,Channelview,1,Texas
+413,Chanute,1,Kansas
+415,Charkhi Dadri,7,Haryana
+416,Charleroi,1,Pennsylvania
+417,Charleston,1,South Carolina
+418,"Charleston, WV",1,West Virginia
+419,"Charleston-North Charleston, SC",1,South Carolina
+421,Charlotte,1,North Carolina
+422,Charlotte Amalie,1,Virgin Islands
+423,"Charlotte-Concord-Gastonia, NC-SC",1,North Carolina
+425,"Charlottesville, VA",1,Virginia
+426,Charlton,1,Georgia
+427,Chatsworth,1,Georgia
+428,Chattanooga,1,Tennessee
+429,"Chattanooga, TN-GA",1,Georgia
+430,Cheektowaga,1,New York
+431,Chehalis,1,Washington
+432,Chelan,1,Washington
+433,Chelmsford (Chelmsford Center),1,Massachusetts
+434,Cheney,1,Washington
+436,Chengdu,18,Sichuan
+437,Chennai,7,Tamil Nadu
+438,Cherry Tree,1,Oklahoma
+439,Cheshire,1,Ohio
+440,Chester,1,California
+441,Chesterfield,1,South Carolina
+442,Cheyenne,1,Wyoming
+447,Chiang Mai,16,Chiang Mai
+448,Chicago,1,Illinois
+449,"Chicago-Naperville-Elgin, IL-IN-WI",1,Illinois
+450,Chickasaw,1,Alabama
+451,Chico,1,California
+452,"Chico, CA",1,California
+453,Chicopee,1,Massachusetts
+454,Chikkaballapur,7,Karnataka
+455,Chikkamagaluru,7,Karnataka
+456,Childersburg,1,Alabama
+457,China Grove,1,North Carolina
+460,Chittagong,33,Chittagong
+461,Chittoor,7,Andhra Pradesh
+463,Choctaw,1,Oklahoma
+464,Chongqing,18,Chongqing
+468,Chula Vista,1,California
+471,Cicero,1,Illinois
+472,Cincinnati,1,Ohio
+473,"Cincinnati, OH-KY-IN",1,Kentucky
+475,Ciudad-Juarez,1,Country Of Mexico
+476,Claiborne,1,Tennessee
+477,Clairton,1,Pennsylvania
+479,"Claremont-Lebanon, NH-VT",1,New Hampshire
+480,Clarion,1,Iowa
+481,Clark,1,Illinois
+482,Clarksburg,1,West Virginia
+483,Clarkston,1,Washington
+484,Clarksville,1,Tennessee
+485,"Clarksville, TN-KY",1,Kentucky
+486,Clearwater,1,Florida
+487,Cleburne,1,Texas
+488,Clermont,1,Florida
+489,Cleveland,1,Mississippi
+490,"Cleveland, TN",1,Tennessee
+491,"Cleveland-Elyria, OH",1,Ohio
+492,Cleves,1,Ohio
+493,Clifton,1,Colorado
+494,Clinton,1,Iowa
+495,Clive,1,Iowa
+496,Cloquet,1,Minnesota
+497,Cloverdale,1,California
+498,Clovis,1,California
+499,Cobb,1,California
+500,Cockeysville,1,Maryland
+501,"Coco, PR",1,Puerto Rico
+502,Cocoa Beach,1,Florida
+503,Coconut Creek,1,Florida
+505,Cody,1,Wyoming
+506,Coeur d'Alene,1,Idaho
+507,"Coeur d'Alene, ID",1,Idaho
+508,Coffeyville,1,Kansas
+509,Coggon,1,Iowa
+510,Coimbatore,7,Tamil Nadu
+511,Colfax,1,California
+512,College,1,Alaska
+513,Coloma,1,Michigan
+514,Colombo,34,Western
+515,Colorado Springs,1,Colorado
+517,Columbia,1,Missouri
+518,Columbia Falls,1,Montana
+519,"Columbia, MO",1,Missouri
+520,"Columbia, SC",1,South Carolina
+521,Columbus,1,Georgia
+523,"Columbus, OH",1,Ohio
+524,Colusa,1,California
+525,Colville,1,Washington
+526,Commerce City,1,Colorado
+527,Compton,1,California
+528,Concord,1,California
+529,Conneaut,1,Ohio
+530,Conroe,1,Texas
+531,Converse,1,Wyoming
+532,Conway,1,Arkansas
+533,Conyers,1,Georgia
+535,Cook,1,Minnesota
+536,Cookeville,1,Tennessee
+538,Cooleemee,1,North Carolina
+539,Coolidge,1,Arizona
+541,Copan,1,Oklahoma
+542,Copenhagen,35,Capital Region
+543,Coral Springs,1,Florida
+545,Corcoran,1,California
+546,Cordoba,27,Cordoba
+547,"Corning, NY",1,New York
+548,Cornwall,1,Connecticut
+549,Corona de Tucson,1,Arizona
+550,Corpus Christi,1,Texas
+551,Corsicana,1,Texas
+552,Cortez,1,Colorado
+553,Cortina Indian Rancheria,1,California
+554,Corvallis,1,Oregon
+555,Costa Mesa,1,California
+556,Cottage Grove,1,Oregon
+557,Council Bluffs,1,Iowa
+558,Cove,1,Oregon
+559,Covington,1,Kentucky
+560,Cozad,1,Nebraska
+561,"Craig, CO",1,Colorado
+562,Crescent City,1,California
+563,Crested Butte,1,Colorado
+564,Crestline,1,California
+566,Crockett,1,California
+568,Crossett,1,Arkansas
+569,Crossville,1,Alabama
+570,Crownpoint,1,New Mexico
+571,Cuddalore,7,Tamil Nadu
+572,Culberson,1,Texas
+573,"Cullowhee, NC",1,North Carolina
+574,Culpeper,1,Virginia
+578,Custer,1,Idaho
+579,Cutler Ridge,1,Florida
+580,Cuttack,7,Odisha
+581,Cuyahoga Heights,1,Ohio
+582,Dade City,1,Florida
+584,Dakar,36,Dakar
+585,Dale,1,Indiana
+586,Dallas,1,Texas
+587,Daman,7,Daman & Diu
+588,Damoh,7,Madhya Pradesh
+589,Damtal,7,Himachal Pradesh
+590,Danbury,1,Connecticut
+592,Dar es Salaam,37,Dar es Salaam
+593,Daranga,7,Assam
+596,Darrington,1,Washington
+598,Davanagere,7,Karnataka
+599,Davenport,1,California
+600,Davidson,1,North Carolina
+601,Davie,1,Florida
+602,Dawki,7,Meghalaya
+603,Dayton,1,Ohio
+604,Daytona Beach,1,Florida
+605,DeKalb,1,Tennessee
+606,Dearborn,1,Michigan
+607,Decatur,1,Alabama
+608,Deer Park,1,Texas
+609,Dehradun,7,Uttaranchal
+610,Del Mar,1,California
+611,Delaware,1,Iowa
+612,Delaware City,1,Delaware
+613,Delhi,7,Delhi
+614,Delray Beach,1,Florida
+615,Delta,1,Colorado
+616,Deming,1,New Mexico
+618,Denali,1,Alaska
+619,Denton,1,Texas
+620,Dentsville (Dents),1,South Carolina
+621,Denver,1,Colorado
+622,"Denver-Aurora-Lakewood, CO",1,Colorado
+623,Dera Baba,7,Punjab
+624,Dera Bassi,7,Punjab
+625,Des Moines,1,Iowa
+626,"Des Moines-West Des Moines, IA",1,Iowa
+627,Des Plaines,1,Illinois
+628,Detroit,1,Michigan
+629,Detroit Lakes,1,Minnesota
+630,"Detroit-Warren-Dearborn, MI",1,Michigan
+631,Dewas,7,Madhya Pradesh
+632,Dhaka,33,Dhaka
+633,Dhanbad,7,Jharkhand
+636,Dharwad,7,Karnataka
+639,Dibrugarh,7,Assam
+640,"Dickinson, ND",1,North Dakota
+641,Dimapur,7,Nagaland
+643,Dock Junction,1,Georgia
+645,Dodge City,1,Kansas
+646,Doha,38,Doha
+648,Door,1,Wisconsin
+649,Doraville,1,Georgia
+650,Dothan,1,Alabama
+651,Douglas,1,Arizona
+652,"Douglas, GA",1,Georgia
+653,Douglasville,1,Georgia
+654,Dover,1,Delaware
+655,"Dover, DE",1,Delaware
+656,Dripping Springs,1,Texas
+657,"DuBois, PA",1,Pennsylvania
+658,Dubai,2,Dubai
+659,Dublin,39,Leinster
+660,Duchesne,1,Utah
+661,Due West,1,South Carolina
+662,Duluth,1,Minnesota
+663,"Duluth, MN-WI",1,Minnesota
+664,Dune Acres,1,Indiana
+666,Dunkirk,1,New York
+667,Dunn,1,North Dakota
+669,Durango,1,Colorado
+670,"Durango, CO",1,Colorado
+672,Durban,30,KwaZulu-Natal
+673,Durgapur,7,West Bengal
+674,Durham,1,North Carolina
+675,"Durham-Chapel Hill, NC",1,North Carolina
+676,Dyersburg,1,Tennessee
+677,Eagle Mountain,1,Texas
+678,Eagle Pass,1,Texas
+679,East Bethel,1,Minnesota
+680,East Brunswick (Township of),1,New Jersey
+681,East Chicago,1,Indiana
+682,East Farmingdale,1,New York
+683,East Greenwich (Township of),1,New Jersey
+684,East Hartford,1,Connecticut
+685,East Highland Park,1,Virginia
+686,East Liverpool,1,Ohio
+687,East Meadow,1,New York
+688,East Orange,1,New Jersey
+689,East Providence,1,Rhode Island
+690,East Ridge,1,Tennessee
+691,East Saint Louis,1,Illinois
+692,"East Stroudsburg, PA",1,Pennsylvania
+693,East Syracuse,1,New York
+694,Eastlake,1,Ohio
+695,Eatonville,1,Washington
+696,Eau Claire,1,Wisconsin
+698,Edgewood,1,Maryland
+699,Edinburg,1,Texas
+700,Edinburgh,22,Scotland
+701,Edmonton,29,Alberta
+702,Effingham,1,Illinois
+703,El Cajon,1,California
+704,El Centro,1,California
+705,"El Centro, CA",1,California
+706,El Dorado,1,Arkansas
+707,El Paso,1,Texas
+708,El Paso de Robles (corporate name for Paso Robles),1,California
+709,Elgin,1,Illinois
+710,Elizabeth,1,New Jersey
+711,Elizabethtown,1,Kentucky
+712,Elkhart,1,Indiana
+714,Elko,1,Nevada
+715,"Elko, NV",1,Nevada
+716,Ellensburg,1,Washington
+717,Elmira,1,New York
+718,Eloy,1,Arizona
+720,Emmetsburg,1,Iowa
+721,"Emporia, KS",1,Kansas
+722,Enid,1,Oklahoma
+724,Enon,1,Ohio
+725,Enumclaw,1,Washington
+726,Erda,1,Utah
+727,Erie,1,Pennsylvania
+729,Escalante,1,Utah
+730,Escondido,1,California
+731,"Espa¤ola, NM",1,New Mexico
+732,Essex,1,Maryland
+733,Eugene,1,Oregon
+734,"Eugene, OR",1,Oregon
+735,Eureka,1,California
+736,"Eureka-Arcata-Fortuna, CA",1,California
+737,Evans,1,Georgia
+738,Evanston,1,Illinois
+739,"Evanston, WY",1,Wyoming
+740,Evansville,1,Indiana
+741,"Evansville, IN-KY",1,Indiana
+743,Ewa Beach,1,Hawaii
+744,Ewing,1,New Jersey
+745,Fairbanks,1,Alaska
+746,"Fairbanks, AK",1,Alaska
+747,Fairfield,1,Alabama
+748,Fairhaven (Town of),1,Massachusetts
+749,Fairhope,1,Alabama
+750,Fairmont,1,West Virginia
+751,Fairport Harbor (Fairport),1,Ohio
+752,Fairview,1,Tennessee
+753,Fall River,1,Massachusetts
+754,Fallon,1,Nevada
+755,"Fargo, ND-MN",1,North Dakota
+756,Faridabad,7,Haryana
+758,Farmington,1,New Mexico
+759,"Farmington, NM",1,New Mexico
+760,Farrell,1,Pennsylvania
+763,Fayetteville,1,North Carolina
+765,Fergus,1,Montana
+767,Fernandina Beach,1,Florida
+769,Fernley,1,Nevada
+770,Ferry Pass,1,Florida
+771,Findlay,1,Ohio
+772,Firozabad,7,Uttar Pradesh
+773,Fishers (corporate name for Fishers Station),1,Indiana
+774,Flagstaff,1,Arizona
+775,"Flagstaff, AZ",1,Arizona
+776,Flemington,1,New Jersey
+777,Flint,1,Michigan
+778,Florence,1,Oregon
+779,"Florence, SC",1,South Carolina
+781,Foley,1,Missouri
+782,Follansbee,1,West Virginia
+783,Folsom,1,California
+784,"Fond du Lac, WI",1,Wisconsin
+785,Fontana,1,California
+786,Forest,1,Wisconsin
+787,Forest Park,1,Georgia
+788,Fort Bragg,1,California
+789,Fort Collins,1,Colorado
+790,"Fort Collins, CO",1,Colorado
+793,Fort Lauderdale,1,Florida
+794,Fort Lee,1,New Jersey
+795,Fort McDowell,1,Arizona
+796,Fort Myers,1,Florida
+797,Fort Myers Beach,1,Florida
+798,Fort Pierce,1,Florida
+799,Fort Smith,1,Arkansas
+801,Fort Walton Beach,1,Florida
+802,Fort Wayne,1,Indiana
+803,"Fort Wayne, IN",1,Indiana
+804,Fort Worth,1,Texas
+805,Fortville,1,Indiana
+806,Fountain,1,Indiana
+807,Fountain Hills,1,Arizona
+808,Frankfort,1,Kentucky
+809,Franklin,1,Idaho
+810,Franklin Furnace,1,Ohio
+811,Franklinton,1,North Carolina
+812,Frederick,1,Maryland
+813,Fredericksburg,1,Virginia
+814,Freehold,1,New Jersey
+815,Freemansburg,1,Pennsylvania
+816,Fremont,1,California
+817,French Settlement,1,Louisiana
+818,Frenchtown,1,Montana
+819,Fresno,1,California
+820,"Fresno, CA",1,California
+822,Frisco,1,Texas
+823,Front Royal,1,Virginia
+824,Fulton,1,New York
+825,Fuquay-Varina,1,North Carolina
+829,Gadsden,1,Alabama
+830,"Gaffney, SC",1,South Carolina
+831,Gainesville,1,Florida
+832,Gajraula,7,Uttar Pradesh
+834,Galloway (Township of),1,New Jersey
+835,Galveston,1,Texas
+836,Gandhinagar,7,Gujarat
+838,Garden,1,Nebraska
+839,Garden City,1,Georgia
+840,Gardiner,1,Maine
+841,Gardnerville Ranchos,1,Nevada
+842,Garfield,1,Utah
+843,Gary,1,Indiana
+844,Garyville,1,Louisiana
+846,Gastonia,1,North Carolina
+847,Gaviota,1,California
+848,Gaya,7,Bihar
+849,Georgetown,1,South Carolina
+850,"Gettysburg, PA",1,Pennsylvania
+852,Ghaziabad,7,Uttar Pradesh
+854,Gilbert,1,Arizona
+855,Gillette,1,Wyoming
+856,"Gillette, WY",1,Wyoming
+857,Gilmer,1,West Virginia
+858,Gilroy,1,California
+860,Glasgow,22,Scotland
+861,Glassport,1,Pennsylvania
+862,Glen Burnie,1,Maryland
+863,Glendale,1,Arizona
+864,Glendora,1,California
+865,Glenn,1,California
+866,Glenpool,1,Oklahoma
+868,Glenwood Springs,1,Colorado
+869,"Glenwood Springs, CO",1,Colorado
+870,Globe,1,Arizona
+871,Golaghat,7,Assam
+872,Goldsboro,1,North Carolina
+873,Goldsby,1,Oklahoma
+874,Goleta,1,California
+875,Goodland,1,Kansas
+876,Gorakhpur,7,Uttar Pradesh
+877,Gordon,1,Georgia
+879,Gothenburg,1,Nebraska
+880,Graham,1,North Carolina
+882,Granbury,1,Texas
+883,Grand Canyon Village,1,Arizona
+884,Grand Island,1,Nebraska
+885,Grand Junction,1,Colorado
+886,"Grand Junction, CO",1,Colorado
+887,Grand Rapids,1,Michigan
+888,"Grand Rapids-Wyoming, MI",1,Michigan
+889,Granger,1,Indiana
+890,Grangeville,1,Idaho
+891,Granite City,1,Illinois
+893,Grants Pass,1,Oregon
+894,"Grants Pass, OR",1,Oregon
+895,Grantsville,1,Maryland
+896,Grapevine,1,Texas
+897,Grass Valley,1,California
+898,Gray (Beattieville),1,Louisiana
+899,Great Falls,1,Montana
+901,Greater Upper Marlboro,1,Maryland
+902,Greeley,1,Colorado
+903,"Greeley, CO",1,Colorado
+904,Green Bay,1,Wisconsin
+905,Green River,1,Wyoming
+906,Green Valley,1,Arizona
+907,Greenbrier,1,West Virginia
+908,Greene,1,Pennsylvania
+909,Greenfield,1,Massachusetts
+910,Greensboro,1,North Carolina
+911,"Greensboro-High Point, NC",1,North Carolina
+912,Greensburg,1,Pennsylvania
+913,Greenville,1,North Carolina
+914,"Greenville, NC",1,North Carolina
+915,"Greenville-Anderson-Mauldin, SC",1,South Carolina
+916,Greenwich (Town of),1,Connecticut
+917,Greenwich (Township of),1,New Jersey
+919,Grenada,1,Mississippi
+922,Griffith,1,Indiana
+923,Groton,1,Connecticut
+924,Groveton,1,Virginia
+925,Guadalajara,40,Jalisco
+926,Guangzhou,18,Guangdong
+927,Guayama,1,Puerto Rico
+928,"Guayama, PR",1,Puerto Rico
+929,Guayanilla,1,Puerto Rico
+930,Guaynabo,1,Puerto Rico
+931,Guerneville,1,California
+933,Gulf Breeze,1,Florida
+934,Gulfport,1,Mississippi
+936,Gunnison,1,Colorado
+937,Guntur,7,Andhra Pradesh
+940,Gurugram,7,Haryana
+941,Guwahati,7,Assam
+942,Gwalior,7,Madhya Pradesh
+943,Hackensack,1,New Jersey
+944,"Hagerstown-Martinsburg, MD-WV",1,Maryland
+945,Hahnville,1,Louisiana
+947,Hajipur,7,Bihar
+948,Haldia,7,West Bengal
+950,Hallsville,1,Texas
+951,Hamburg,21,Hamburg
+952,Hamilton,1,Montana
+953,Hammond,1,Indiana
+954,Hampton,1,Virginia
+955,Hancock,1,Maine
+956,Hanford,1,California
+957,"Hanford-Corcoran, CA",1,California
+958,Hangzhou,18,Zhejiang
+959,Hanoi,41,Hanoi
+961,Happy Valley,1,Alaska
+962,Hapur,7,Uttar Pradesh
+963,Harbin,18,Heilongjiang
+964,Harbor Beach,1,Michigan
+966,Harlingen,1,Texas
+968,Harriman,1,Tennessee
+970,"Harrisburg-Carlisle, PA",1,Pennsylvania
+971,Harrison Township,1,Pennsylvania
+972,"Harrison, AR",1,Arkansas
+973,"Harrisonburg, VA",1,Virginia
+974,Harrisville,1,Utah
+975,Hartford,1,Connecticut
+976,Hassan,7,Karnataka
+978,Hattiesburg,1,Mississippi
+979,Havana,42,Havana
+980,Haverhill,1,Massachusetts
+982,Hawaii Volcanoes National Park,1,Hawaii
+983,Hawaiian Ocean View,1,Hawaii
+984,Hayden,1,Arizona
+985,Hayward,1,California
+986,Hazard,1,Kentucky
+987,Healdsburg,1,California
+988,Healdton,1,Oklahoma
+989,Heath (Fourmile Lock),1,Ohio
+990,Helena,1,Alabama
+991,Helena Valley West Central,1,Montana
+992,"Helena, MT",1,Montana
+993,Helsinki,43,Uusimaa
+994,Henderson,1,Nevada
+995,Hendersonville,1,North Carolina
+996,Herculaneum,1,Missouri
+997,Hermiston,1,Oregon
+998,Hernando,1,Mississippi
+999,Herriman,1,Utah
+1000,Hershey,1,Pennsylvania
+1001,Hesperia,1,California
+1002,Hickory,1,North Carolina
+1003,Highland,1,Utah
+1004,Highland Heights,1,Kentucky
+1005,Hillsboro,1,Oregon
+1006,Hilo,1,Hawaii
+1007,"Hilo, HI",1,Hawaii
+1008,Hisar,7,Haryana
+1009,Ho Chi Minh City,41,Ho Chi Minh
+1010,Hobbs,1,New Mexico
+1011,Holiday,1,Florida
+1012,Holland,1,Michigan
+1013,Hollister,1,California
+1014,Hollywood,1,Florida
+1015,Holmes,1,Florida
+1016,Holtsville,1,New York
+1017,Homestead,1,Florida
+1018,"Homosassa Springs, FL",1,Florida
+1020,Honolulu,1,Hawaii
+1021,Hoover,1,Alabama
+1022,Hope,1,Indiana
+1023,Hope Mills,1,North Carolina
+1024,Hopewell,1,Virginia
+1025,Hopewell (Township of),1,New Jersey
+1028,Hot Springs (Hot Springs National Park),1,Arkansas
+1029,"Houghton, MI",1,Michigan
+1030,Houston,1,Texas
+1031,Howrah,7,West Bengal
+1032,Hubballi,7,Karnataka
+1033,Hubballi-Dharwad,7,Karnataka
+1035,Humacao,1,Puerto Rico
+1037,Huntington,1,West Virginia
+1038,"Huntington-Ashland, WV-KY-OH",1,Ohio
+1039,Huntsville,1,Alabama
+1040,Huron,1,California
+1041,Hurricane,1,Utah
+1042,Hybla Valley,1,Virginia
+1043,Hyde,1,North Carolina
+1044,Hyderabad,7,Andhra Pradesh
+1045,Idaho,1,Idaho
+1046,Idaho Falls,1,Idaho
+1047,"Idaho Falls, ID",1,Idaho
+1049,Incheon,28,Incheon
+1050,Incline Village-Crystal Bay,1,Nevada
+1051,Independence,1,California
+1052,Indian Springs,1,Nevada
+1053,"Indiana, PA",1,Pennsylvania
+1054,Indianapolis,1,Indiana
+1055,Indianapolis (Remainder),1,Indiana
+1056,"Indianapolis-Carmel-Anderson, IN",1,Indiana
+1057,Indio,1,California
+1058,Indore,7,Madhya Pradesh
+1059,Iowa City,1,Iowa
+1060,Iron,1,Missouri
+1061,"Iron Mountain, MI-WI",1,Wisconsin
+1062,Ironton,1,Ohio
+1063,Isfahan,44,Isfahan
+1064,Isla Vista,1,California
+1065,Islamabad,45,ICT
+1066,Issaquah,1,Washington
+1067,Istanbul,12,Istanbul
+1068,Italy,1,Texas
+1070,"Ithaca, NY",1,New York
+1071,Izmir,12,Izmir
+1072,Jabalpur,7,Madhya Pradesh
+1073,Jackson,1,California
+1074,Jackson (Township of),1,New Jersey
+1075,"Jackson, WY-ID",1,Wyoming
+1076,Jacksonville,1,Florida
+1077,"Jacksonville, FL",1,Florida
+1080,Jaipur,7,Rajasthan
+1083,Jakarta,46,Jakarta
+1084,Jalandhar,7,Punjab
+1085,Jalgaon,7,Maharashtra
+1086,Jalna,7,Maharashtra
+1090,Jamesville,1,North Carolina
+1091,Jammu,7,Jammu & Kashmir
+1092,Jamnagar,7,Gujarat
+1093,Jamshedpur,7,Jharkhand
+1094,Jasper,1,Alabama
+1095,"Jasper, IN",1,Indiana
+1096,Jean,1,Nevada
+1097,Jeddah,47,Makkah
+1098,Jeff Davis,1,Texas
+1099,Jefferson,1,Oklahoma
+1100,"Jefferson City, MO",1,Missouri
+1102,Jeffersonville,1,Indiana
+1103,Jenison,1,Michigan
+1104,Jersey City,1,New Jersey
+1106,Jerseyville,1,Illinois
+1107,Jerusalem,48,Jerusalem
+1109,Jhansi,7,Uttar Pradesh
+1113,Jind,7,Haryana
+1114,Jo Daviess,1,Illinois
+1116,Jodhpur,7,Rajasthan
+1117,Johannesburg,30,Gauteng
+1118,John Day,1,Oregon
+1119,Johnson,1,Wyoming
+1120,Johnstown,1,Pennsylvania
+1121,Joliet,1,Illinois
+1123,"Joplin, MO",1,Missouri
+1124,Joshua Tree National Monument,1,California
+1125,Juneau,1,Alaska
+1126,Kadapa,7,Andhra Pradesh
+1127,Kahului,1,Hawaii
+1128,"Kahului-Wailuku-Lahaina, HI",1,Hawaii
+1132,Kalaburagi,7,Karnataka
+1133,Kalamazoo,1,Michigan
+1136,Kalispell,1,Montana
+1137,"Kalispell, MT",1,Montana
+1138,Kalyan,7,Maharashtra
+1140,Kampala,49,Central
+1142,Kannur,7,Kerala
+1143,Kanpur,7,Uttar Pradesh
+1144,Kansas City,1,Kansas
+1145,"Kansas City, MO-KS",1,Kansas
+1146,Kaohsiung,50,Kaohsiung
+1147,"Kapaa, HI",1,Hawaii
+1148,Karachi,45,Sindh
+1152,Karnal,7,Haryana
+1155,Kashipur,7,Uttarakhand
+1156,Kathmandu,51,Bagmati
+1158,Katni,7,Madhya Pradesh
+1159,Kaufman,1,Texas
+1160,Kaukauna,1,Wisconsin
+1163,Kealakekua,1,Hawaii
+1164,Kearny,1,Arizona
+1165,Keeler,1,California
+1166,Keene,1,New Hampshire
+1167,Kekoskee,1,Wisconsin
+1168,Kelso,1,California
+1169,Kemmerer,1,Wyoming
+1170,Kenai Peninsula,1,Alaska
+1171,Kenansville,1,North Carolina
+1172,Kennebunkport,1,Maine
+1173,Kenner,1,Louisiana
+1174,Kennesaw,1,Georgia
+1175,Kennewick,1,Washington
+1176,Kenosha,1,Wisconsin
+1177,Kent,1,Maryland
+1178,Keokuk,1,Iowa
+1180,Ketchum,1,Idaho
+1181,Kewaunee,1,Wisconsin
+1186,Khanna,7,Punjab
+1189,Khartoum,52,Khartoum
+1192,Khurja,7,Uttar Pradesh
+1193,Kihei,1,Hawaii
+1194,Killeen,1,Texas
+1195,King City,1,California
+1196,Kingsport,1,Tennessee
+1197,"Kingsport-Bristol-Bristol, TN-VA",1,Tennessee
+1198,Kingston,1,Tennessee
+1199,"Kingston, NY",1,New York
+1200,Kinshasa,53,Kinshasa
+1201,Kinston,1,North Carolina
+1203,Kissimmee,1,Florida
+1204,Kittanning,1,Pennsylvania
+1206,"Klamath Falls, OR",1,Oregon
+1207,Klickitat,1,Washington
+1208,Knowlton (Township of),1,New Jersey
+1209,Knox,1,Nebraska
+1210,Knoxville,1,Tennessee
+1211,"Knoxville, TN",1,Tennessee
+1212,Kochi,7,Kerala
+1213,Kohima,7,Nagaland
+1215,Kokomo,1,Indiana
+1216,Kolar,7,Karnataka
+1218,Kolhapur,7,Maharashtra
+1219,Kolkata,7,West Bengal
+1220,Kollam,7,Kerala
+1223,Korba,7,Chhattisgarh
+1224,Kota,7,Rajasthan
+1227,Kottayam,7,Kerala
+1228,Kozhikode,7,Kerala
+1229,Krakow,54,Lesser Poland
+1230,Kremmling,1,Colorado
+1231,Kuala Lumpur,55,KL
+1234,Kurnool,7,Andhra Pradesh
+1236,Kurukshetra,7,Haryana
+1237,Kuwait City,56,Al Asimah
+1238,La Crosse,1,Wisconsin
+1239,La Crosse (corporate and RR name for Lacrosse),1,Washington
+1240,La Grande,1,Oregon
+1241,"La Grande, OR",1,Oregon
+1242,La Habra,1,California
+1243,La Porte,1,Indiana
+1244,Lacey,1,Washington
+1245,Lackawanna,1,New York
+1246,Laconia,1,New Hampshire
+1247,Ladonia,1,Alabama
+1248,Ladue,1,Missouri
+1249,Lafayette,1,Indiana
+1250,"Lafayette-West Lafayette, IN",1,Indiana
+1251,Lagos,3,Lagos
+1252,Lahore,45,Punjab
+1253,Lake,1,Minnesota
+1254,Lake Charles,1,Louisiana
+1255,Lake City,1,Florida
+1256,Lake Elsinore,1,California
+1257,Lake Forest Park,1,Washington
+1258,"Lake Havasu City-Kingman, AZ",1,Arizona
+1259,Lake Jackson,1,Texas
+1260,Lakeland,1,Florida
+1261,"Lakeland-Winter Haven, FL",1,Florida
+1262,Lakeport,1,California
+1263,Lakeview,1,Oregon
+1264,Lakeville,1,Minnesota
+1265,Lakewood,1,Colorado
+1266,Lakhimpur,7,Assam
+1269,Lamar,1,Colorado
+1270,Lancaster,1,California
+1271,"Lancaster, PA",1,Pennsylvania
+1272,Lander,1,Wyoming
+1273,Lansing,1,Michigan
+1275,Lantana,1,Florida
+1276,Laramie,1,Wyoming
+1277,"Laramie, WY",1,Wyoming
+1278,Laredo,1,Texas
+1279,Largo,1,Florida
+1280,Las Cruces,1,New Mexico
+1281,"Las Cruces, NM",1,New Mexico
+1282,Las Vegas,1,Nevada
+1283,"Las Vegas-Henderson-Paradise, NV",1,Nevada
+1284,Latur,7,Maharashtra
+1285,Laurel,1,Mississippi
+1286,Lava Beds National Monument,1,California
+1288,Lawrence,1,Indiana
+1289,Lawrence (Township of),1,New Jersey
+1291,Lawton,1,Oklahoma
+1292,"Lawton, OK",1,Oklahoma
+1293,Leander,1,Texas
+1294,Leavenworth,1,Kansas
+1295,Lebanon,1,New Hampshire
+1296,"Lebanon, PA",1,Pennsylvania
+1297,Lebec,1,California
+1298,Leeds,1,Alabama
+1299,Leggett,1,North Carolina
+1300,Leilani Estates,1,Hawaii
+1301,Lemhi,1,Idaho
+1302,Lemmon Valley-Golden Valley,1,Nevada
+1303,Lemont,1,Illinois
+1305,Lenoir,1,North Carolina
+1306,Leo-Cedarville,1,Indiana
+1307,Leon Valley,1,Texas
+1308,Leonia,1,New Jersey
+1309,Leslie (RR name Leslie-DeSoto),1,Georgia
+1310,Lewes,1,Delaware
+1311,Lewisport,1,Kentucky
+1312,Lewiston,1,Idaho
+1313,"Lewiston, ID-WA",1,Idaho
+1314,"Lewiston-Auburn, ME",1,Maine
+1315,Lexington,1,North Carolina
+1316,Lexington-Fayette (corporate name for Lexington),1,Kentucky
+1318,Libby,1,Montana
+1319,Liberty,1,Florida
+1321,Lima,57,Lima
+1322,Lima,1,Ohio
+1323,Lincoln,1,Nebraska
+1324,"Lincoln, NE",1,Nebraska
+1325,Lincolnton,1,North Carolina
+1326,Lindon,1,Utah
+1327,Lisbon,58,Lisbon
+1328,Lisle,1,Illinois
+1329,Little Rock,1,Arkansas
+1330,Littleton,1,Colorado
+1331,Live Oak,1,California
+1332,Livermore,1,California
+1333,Livonia,1,Michigan
+1335,Lochearn,1,Maryland
+1336,Lockland,1,Ohio
+1337,Logan,1,Utah
+1338,Lompoc,1,California
+1339,London,22,England
+1340,Londonderry,1,New Hampshire
+1341,Lone Pine,1,California
+1342,Long Beach,1,California
+1343,Longmont,1,Colorado
+1344,Longview,1,Texas
+1346,Loretto,1,Tennessee
+1347,"Los Alamos, NM",1,New Mexico
+1348,Los Angeles,1,California
+1349,"Los Angeles-Long Beach-Anaheim, CA",1,California
+1350,Los Gatos,1,California
+1351,Los Padres National Forest,1,California
+1352,Lote,7,Maharashtra
+1353,Loudon,1,Tennessee
+1354,Louisville,1,Kentucky
+1355,"Louisville/Jefferson County, KY-IN",1,Indiana
+1356,Loves Park,1,Illinois
+1357,Lowell,1,Massachusetts
+1358,Lower Grand Lagoon,1,Florida
+1359,Luanda,59,Luanda
+1360,Lubbock,1,Texas
+1361,Lucerne Valley,1,California
+1362,Lucknow,7,Uttar Pradesh
+1363,Ludhiana,7,Punjab
+1364,"Lumberton, NC",1,North Carolina
+1365,Luna Pier,1,Michigan
+1367,Lynchburg,1,Virginia
+1368,Lynn,1,Massachusetts
+1371,Lyon,60,Auvergne-Rhone-Alpes
+1372,Lyons,1,Oregon
+1373,Macon,1,Georgia
+1375,Madawaska (census name for Madawaska Center),1,Maine
+1376,Madera,1,California
+1379,Madikeri,7,Karnataka
+1380,Madison,1,Virginia
+1381,Madison (Town of),1,Connecticut
+1382,"Madison, WI",1,Wisconsin
+1383,Madras,1,Oregon
+1384,Madrid,17,Madrid
+1385,Madurai,7,Tamil Nadu
+1386,Magherita,7,Assam
+1387,Magna,1,Utah
+1388,Mahad,7,Maharashtra
+1390,Malappuram,7,Kerala
+1394,"Malone, NY",1,New York
+1395,Mamaroneck,1,New York
+1397,Mammoth,1,Arizona
+1398,Mammoth Lakes,1,California
+1400,Manama,61,Capital
+1401,Manchester,22,England
+1402,Manchester,1,New Hampshire
+1403,Mandi Gobindgarh,7,Punjab
+1404,Mandideep,7,Madhya Pradesh
+1405,Mandikhera,7,Haryana
+1407,Mangaluru,7,Karnataka
+1410,"Manhattan, KS",1,Kansas
+1411,Manila,62,Metro Manila
+1412,Manistee,1,Michigan
+1413,Manitou Springs (Manitou),1,Colorado
+1414,Manitowoc,1,Wisconsin
+1415,Mannford,1,Oklahoma
+1416,Manteca,1,California
+1417,Manvel,1,Texas
+1419,Marana,1,Arizona
+1420,Marble City Community,1,Oklahoma
+1421,Marcus Hook,1,Pennsylvania
+1424,Maricopa,1,Arizona
+1425,Marietta,1,Ohio
+1426,Marion,1,Arkansas
+1427,Mariposa,1,California
+1429,Marrero,1,Louisiana
+1430,Marseille,60,Provence
+1431,Marshall,1,Minnesota
+1432,"Marshall, TX",1,Texas
+1433,Martinez,1,California
+1434,Martinsburg,1,West Virginia
+1435,Martinsville,1,Indiana
+1436,Maryland Heights,1,Missouri
+1437,Marysville,1,Washington
+1438,Maryville,1,Illinois
+1439,Mascot,1,Tennessee
+1440,Mason City,1,Iowa
+1442,Mayaguez,1,Puerto Rico
+1444,Mayes,1,Oklahoma
+1445,Mayfield,1,Ohio
+1446,Maywood,1,Illinois
+1447,McAlester,1,Oklahoma
+1448,McCall,1,Idaho
+1449,McCandless Township,1,Pennsylvania
+1451,McCook,1,Illinois
+1452,McDonald,1,Pennsylvania
+1453,McDonough,1,Georgia
+1454,McKenzie,1,North Dakota
+1455,McLean,1,Virginia
+1457,McNary,1,Arizona
+1458,Mecca,1,California
+1459,Medellin,23,Antioquia
+1460,Medford,1,Oregon
+1461,"Medford, OR",1,Oregon
+1463,Meerut,7,Uttar Pradesh
+1464,Meigs,1,Tennessee
+1465,Melbourne,6,Victoria
+1466,Melbourne,1,Florida
+1467,Memphis,1,Tennessee
+1468,"Memphis, TN-MS-AR",1,Arkansas
+1469,Mena,1,Arkansas
+1470,Mentor,1,Ohio
+1471,Meraux,1,Louisiana
+1472,Merced,1,California
+1473,"Merced, CA",1,California
+1475,Mercer,1,North Dakota
+1476,Meridian,1,Mississippi
+1477,Mesa,1,Arizona
+1478,Mesquite,1,Nevada
+1481,Mexicali,1,Country Of Mexico
+1482,Mexico City,40,CDMX
+1483,Miami,1,Arizona
+1484,"Miami-Fort Lauderdale-West Palm Beach, FL",1,Florida
+1485,Micanopy,1,Florida
+1486,Michigan City,1,Indiana
+1487,Middleport,1,New York
+1488,Middlesborough (corporate name for Middlesboro),1,Kentucky
+1489,"Middlesborough, KY",1,Kentucky
+1490,Middletown,1,Connecticut
+1491,Midlothian,1,Illinois
+1493,Milan,63,Lombardy
+1494,Millbrook,1,New York
+1495,Millington,1,Tennessee
+1496,Millville,1,New Jersey
+1497,Milton,1,Massachusetts
+1499,Milwaukee,1,Wisconsin
+1500,"Milwaukee-Waukesha-West Allis, WI",1,Wisconsin
+1502,Mingo Junction,1,Ohio
+1503,Minneapolis,1,Minnesota
+1504,"Minneapolis-St. Paul-Bloomington, MN-WI",1,Minnesota
+1505,"Minot, ND",1,North Dakota
+1507,Mira Loma,1,California
+1508,Mission,1,Texas
+1510,Mission Viejo,1,California
+1511,Missoula,1,Montana
+1513,Mobile,1,Alabama
+1515,Modesto,1,California
+1518,Mojave,1,California
+1519,Mombasa,64,Coast
+1521,Mono,1,California
+1522,Monroe,1,Louisiana
+1523,"Monroe, MI",1,Michigan
+1524,Monrovia,1,Indiana
+1525,Monterrey,40,Nuevo Leon
+1526,Montezuma,1,Colorado
+1527,Montgomery,1,Alabama
+1528,Montoursville,1,Pennsylvania
+1529,Montreal,29,Quebec
+1531,Moore,1,Oklahoma
+1532,Moradabad,7,Uttar Pradesh
+1533,Moraine,1,Ohio
+1535,"Morehead City, NC",1,North Carolina
+1536,Morgan,1,Kentucky
+1537,Morgantown,1,West Virginia
+1539,Morristown,1,New Jersey
+1540,Morro Bay,1,California
+1541,Moscow,1,Idaho
+1542,Moses Lake,1,Washington
+1544,Moulton,1,Alabama
+1545,Moundsville,1,West Virginia
+1546,Mount Carmel,1,Illinois
+1547,Mount Charleston,1,Nevada
+1548,Mount Crested Butte,1,Colorado
+1549,"Mount Pleasant, TX",1,Texas
+1550,Mount Shasta,1,California
+1551,Mount Vernon,1,Washington
+1552,"Mount Vernon, IL",1,Illinois
+1553,"Mount Vernon-Anacortes, WA",1,Washington
+1554,Mountain View,1,Hawaii
+1555,Mountlake Terrace,1,Washington
+1559,Mumbai,7,Maharashtra
+1560,Muncie,1,Indiana
+1562,Munich,21,Bavaria
+1563,Municipality of Monroeville (Monroeville),1,Pennsylvania
+1564,Municipality of Murrysville (corp for Murrysville),1,Pennsylvania
+1566,Murray,1,Utah
+1567,Muscat,65,Muscat
+1568,Muscatine,1,Iowa
+1569,Muscle Shoals,1,Alabama
+1570,Muskegon,1,Michigan
+1571,Muskogee,1,Oklahoma
+1572,"Muskogee, OK",1,Oklahoma
+1573,Muzaffarnagar,7,State
+1574,Muzaffarpur,7,Bihar
+1576,Mysuru,7,Karnataka
+1578,Nagaon,7,Assam
+1582,Nagda,7,Madhya Pradesh
+1583,Nagoya,66,Aichi
+1584,Nagpur,7,Maharashtra
+1586,Naharlagun,7,Arunachal Pradesh
+1587,Nairobi,64,Nairobi
+1588,Nalagarh,7,Himachal Pradesh
+1589,Nalbari,7,Assam
+1590,Nalgonda,7,Andhra Pradesh
+1593,Nampa,1,Idaho
+1594,Nanjing,18,Jiangsu
+1595,Nanticoke,1,Pennsylvania
+1596,Napa,1,California
+1597,Naperville,1,Illinois
+1598,Naples,63,Campania
+1599,Naples,1,Florida
+1600,Narnaul,7,Haryana
+1601,Nashik,7,Maharashtra
+1602,Nashua,1,New Hampshire
+1603,Nashville,1,Tennessee
+1604,Nashville-Davidson (Remainder),1,Tennessee
+1605,"Nashville-Davidson--Murfreesboro--Franklin, TN",1,Tennessee
+1606,Natchez,1,Mississippi
+1609,Navi Mumbai,7,Maharashtra
+1611,Nazareth,1,Pennsylvania
+1612,Nazlini (Trading Post),1,Arizona
+1613,Neah Bay,1,Washington
+1614,Nederland,1,Texas
+1616,Neosho,1,Kansas
+1617,New Albany,1,Indiana
+1618,New Castle,1,Colorado
+1619,New Haven,1,Connecticut
+1620,New Madrid,1,Missouri
+1621,New Market,1,Tennessee
+1623,New Orleans,1,Louisiana
+1624,"New Orleans-Metairie, LA",1,Louisiana
+1625,New Paris,1,Ohio
+1626,New Roads,1,Louisiana
+1627,New York,1,New York
+1628,"New York-Newark-Jersey City, NY-NJ-PA",1,New York
+1629,Newark,1,Delaware
+1630,Newburgh,1,New York
+1631,Newburgh Heights,1,Ohio
+1632,Newbury,1,Massachusetts
+1633,Newburyport,1,Massachusetts
+1634,Newcastle,1,Wyoming
+1635,Newport,1,Arkansas
+1636,Niagara Falls,1,New York
+1637,Nicholasville,1,Kentucky
+1638,Nilwood,1,Illinois
+1639,Nipomo,1,California
+1641,Noble,1,Ohio
+1642,Noblesville,1,Indiana
+1643,Nogales,1,Arizona
+1644,Noida,7,Uttar Pradesh
+1646,Norco,1,California
+1647,Norfolk,1,Virginia
+1648,Normal,1,Illinois
+1649,Norristown,1,Pennsylvania
+1650,North Adams,1,Massachusetts
+1651,North Amherst,1,Massachusetts
+1652,North Bend (Northbend),1,Washington
+1653,North Braddock,1,Pennsylvania
+1654,North Brunswick Township,1,New Jersey
+1655,North Charleston,1,South Carolina
+1657,North Las Vegas,1,Nevada
+1658,North Laurel,1,Maryland
+1659,North Little Rock,1,Arkansas
+1660,North Pole,1,Alaska
+1661,"North Port-Sarasota-Bradenton, FL",1,Florida
+1663,North Valley,1,New Mexico
+1664,Northbrook,1,Illinois
+1665,Norwalk,1,Connecticut
+1666,Norwich,1,Connecticut
+1667,Norwood,1,Ohio
+1668,Not in a city,1,Alabama
+1669,Oak Park,1,Michigan
+1670,Oak Ridge,1,Tennessee
+1671,Oakland,1,California
+1672,Oakridge,1,Oregon
+1673,Oakville,1,Missouri
+1674,Ocala,1,Florida
+1675,Odessa,1,Texas
+1676,Ogden,1,Utah
+1677,Ogden Dunes (Wickliffe),1,Indiana
+1678,"Ogden-Clearfield, UT",1,Utah
+1679,"Ogdensburg-Massena, NY",1,New York
+1680,Oglesby,1,Illinois
+1681,Ohio,1,Kentucky
+1682,Oildale,1,California
+1683,Ojai,1,California
+1684,Okanogan,1,Washington
+1685,Oklahoma City,1,Oklahoma
+1687,Olancha,1,California
+1690,Omaha,1,Nebraska
+1691,"Omaha-Council Bluffs, NE-IA",1,Iowa
+1692,Onamia,1,Minnesota
+1693,Oneida,1,Wisconsin
+1695,Ontario,1,California
+1697,Orange,1,Texas
+1698,Organ Pipe Cactus National Monument,1,Arizona
+1699,Orlando,1,Florida
+1700,"Orlando-Kissimmee-Sanford, FL",1,Florida
+1701,Osaka,66,Osaka
+1702,Oslo,67,Oslo
+1703,Otay Mesa,1,California
+1704,Otisville,1,Michigan
+1705,Ottawa,29,Ontario
+1706,Overland Park,1,Kansas
+1707,"Owensboro, KY",1,Kentucky
+1708,Oxford,1,Maine
+1709,"Oxnard-Thousand Oaks-Ventura, CA",1,California
+1710,Paducah,1,Kentucky
+1711,"Paducah, KY-IL",1,Kentucky
+1712,Page,1,Virginia
+1713,Pagosa Springs,1,Colorado
+1714,Pahala,1,Hawaii
+1715,Pahrump,1,Nevada
+1717,Painesville,1,Ohio
+1718,Pala,1,California
+1719,Palakkad,7,Kerala
+1720,"Palatka, FL",1,Florida
+1721,Pali,7,Rajasthan
+1722,Palisade,1,Colorado
+1724,"Palm Bay-Melbourne-Titusville, FL",1,Florida
+1726,Palm Springs,1,California
+1727,Palm Springs North,1,Florida
+1728,Palmer,1,Alaska
+1729,Palmetto,1,Florida
+1731,Panaji,7,Goa
+1732,Panama City,68,Panama
+1733,Panama City,1,Florida
+1734,Panchkula,7,Haryana
+1735,Panipat,7,Haryana
+1736,Paonta Sahib,7,Himachal Pradesh
+1737,Parachute,1,Colorado
+1739,Paradise,1,California
+1741,Paris,60,Ile-de-France
+1742,Park,1,Wyoming
+1743,Park Hill,1,Oklahoma
+1745,Parks (Maine),1,Arizona
+1746,Parlier,1,California
+1747,Parwanoo,7,Himachal Pradesh
+1748,Pasadena,1,California
+1749,Pascagoula,1,Mississippi
+1750,Paterson,1,New Jersey
+1751,Pathanamthitta,7,Kerala
+1753,Patiala,7,Punjab
+1755,Patna,7,Bihar
+1756,Paul Spur,1,Arizona
+1757,Pawtucket,1,Rhode Island
+1758,Payson,1,Arizona
+1759,"Payson, AZ",1,Arizona
+1760,Peach Springs,1,Arizona
+1761,Pearl City,1,Hawaii
+1764,Pekin,1,Illinois
+1765,Pelham,1,Alabama
+1767,Penang,55,Penang
+1768,Pendleton,1,Oregon
+1769,Pennsauken (Township of),1,New Jersey
+1770,Pensacola,1,Florida
+1771,Peoria,1,Illinois
+1772,Peoria Heights,1,Illinois
+1774,Perris,1,California
+1775,Perry,1,Indiana
+1776,Perth,6,WA
+1777,Perth Amboy,1,New Jersey
+1779,Peshawar,45,KPK
+1780,Peterborough (Peterboro),1,New Hampshire
+1781,Phenix City,1,Alabama
+1782,Philadelphia,1,Pennsylvania
+1783,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",1,Delaware
+1784,Phillips,1,Montana
+1785,Phillipsburg,1,New Jersey
+1786,Phnom Penh,69,Phnom Penh
+1787,Phoenix,1,Arizona
+1788,"Phoenix-Mesa-Scottsdale, AZ",1,Arizona
+1789,Picher,1,Oklahoma
+1790,Pico Rivera,1,California
+1791,Pierre,1,South Dakota
+1793,Pikeville,1,Kentucky
+1794,Pilot Point,1,Texas
+1796,Pinedale,1,Wyoming
+1797,Pinehurst (Pine Creek),1,Idaho
+1798,Pinellas Park,1,Florida
+1799,Pinson,1,Alabama
+1800,Piru,1,California
+1801,Pithampur,7,Madhya Pradesh
+1802,Pittsboro,1,Indiana
+1804,Pittsburgh,1,Pennsylvania
+1805,"Pittsburgh, PA",1,Pennsylvania
+1806,Pittsfield,1,Massachusetts
+1807,Placerville,1,California
+1809,Platte,1,Wyoming
+1810,Platteville,1,Colorado
+1811,Pleasant Prairie,1,Wisconsin
+1814,Pocatello,1,Idaho
+1815,"Pocatello, ID",1,Idaho
+1816,"Point Pleasant, WV-OH",1,Ohio
+1817,Point Reyes National Seashore,1,California
+1818,Point of Rocks,1,Wyoming
+1819,Polk,1,Texas
+1820,Polk City,1,Iowa
+1821,Polson,1,Montana
+1822,Pomeroy,1,Ohio
+1823,Pomona,1,California
+1824,Pompano Beach,1,Florida
+1825,Pompano Beach Highlands,1,Florida
+1826,Ponca City,1,Oklahoma
+1827,"Ponca City, OK",1,Oklahoma
+1828,Ponce,1,Puerto Rico
+1832,Port Angeles,1,Washington
+1833,"Port Angeles, WA",1,Washington
+1834,Port Arthur,1,Texas
+1835,Port Huron,1,Michigan
+1836,Port Orange,1,Florida
+1837,Port Townsend,1,Washington
+1838,Portage,1,Indiana
+1839,Porterville,1,California
+1840,Portland,1,Maine
+1841,"Portland-South Portland, ME",1,Maine
+1842,"Portland-Vancouver-Hillsboro, OR-WA",1,Oregon
+1843,Portola,1,California
+1844,Portsmouth,1,New Hampshire
+1846,Potosi,1,Wisconsin
+1848,Powder River,1,Montana
+1849,Powder Springs,1,Georgia
+1851,Powell,1,Montana
+1852,Prague,70,Prague
+1855,Prayagraj,7,Uttar Pradesh
+1856,Prescott,1,Arizona
+1857,Prescott Valley,1,Arizona
+1858,"Prescott, AZ",1,Arizona
+1859,Presque Isle,1,Maine
+1860,Preston,1,Idaho
+1861,Price,1,Utah
+1862,Prince Edward,1,Virginia
+1863,Prince Frederick,1,Maryland
+1864,Prineville,1,Oregon
+1866,Providence,1,Rhode Island
+1867,"Providence-Warwick, RI-MA",1,Rhode Island
+1868,Provo,1,Utah
+1869,Pryor (corporate name Pryor Creek),1,Oklahoma
+1870,Puducherry,7,Puducherry
+1872,Pueblo,1,Colorado
+1874,Pullman,1,Washington
+1876,Pune,7,Maharashtra
+1881,Qingdao,18,Shandong
+1882,Queen Creek,1,Arizona
+1883,Queen Valley,1,Arizona
+1884,Quincy,1,California
+1885,Quito,71,Pichincha
+1886,Racine,1,Wisconsin
+1887,"Racine, WI",1,Wisconsin
+1889,Rahway,1,New Jersey
+1890,Raichur,7,Karnataka
+1893,Raipur,7,Chhattisgarh
+1895,Rajahmundry,7,Andhra Pradesh
+1898,Rajkot,7,Gujarat
+1901,Raleigh,1,North Carolina
+1902,"Raleigh, NC",1,North Carolina
+1903,Ramagundam,7,Andhra Pradesh
+1904,Ramanagara,7,Karnataka
+1909,Ranchi,7,Jharkhand
+1910,Randolph,1,Illinois
+1912,Rangely,1,Colorado
+1914,Raniganj,7,West Bengal
+1916,Rapid City,1,South Dakota
+1917,"Rapid City, SD",1,South Dakota
+1919,Ratlam,7,Madhya Pradesh
+1920,Ravalli,1,Montana
+1922,Ravenna,1,Ohio
+1923,Rayagada,7,Odisha
+1924,Rc Puram,7,Andhra Pradesh
+1926,"Reading, PA",1,Pennsylvania
+1927,Red Bluff,1,California
+1928,"Red Bluff, CA",1,California
+1929,Red Lake,1,Minnesota
+1930,Red Rock,1,Arizona
+1931,"Red Wing, MN",1,Minnesota
+1932,Redding,1,California
+1933,"Redding, CA",1,California
+1934,Redlands,1,California
+1935,Redwood City,1,California
+1936,Redwood National Park,1,California
+1937,Reno,1,Nevada
+1939,Renusagar,7,Uttar Pradesh
+1940,Reseda,1,California
+1941,Reserve,1,Kansas
+1944,Rhinelander,1,Wisconsin
+1945,Richfield,1,Minnesota
+1946,Richland,1,Montana
+1947,Richmond,1,California
+1948,"Richmond, VA",1,Virginia
+1949,Ridge Wood Heights,1,Florida
+1950,Ridgecrest,1,California
+1951,Rifle,1,Colorado
+1952,Rillito,1,Arizona
+1953,Rio Blanco,1,Colorado
+1955,Rio Rancho Estates,1,New Mexico
+1956,Rio Verde,1,Arizona
+1957,Rio de Janeiro,20,RJ
+1958,Rishikesh,7,Uttarakhand
+1960,Ritzville,1,Washington
+1961,River Rouge,1,Michigan
+1962,Riverhead,1,New York
+1963,Riverside,1,California
+1964,"Riverside-San Bernardino-Ontario, CA",1,California
+1966,"Riverton, WY",1,Wyoming
+1967,Riviera Beach,1,Florida
+1968,Riyadh,47,Riyadh
+1969,Roanoke,1,Indiana
+1970,Rochester,1,Minnesota
+1971,"Rochester, NY",1,New York
+1972,Rock,1,Minnesota
+1973,Rock Hill,1,South Carolina
+1974,Rock Island Arsenal (U.S. Army),1,Illinois
+1975,Rock Springs,1,Wyoming
+1976,"Rock Springs, WY",1,Wyoming
+1977,Rockbridge,1,Virginia
+1979,Rockford,1,Illinois
+1980,"Rockland, ME",1,Maine
+1981,Rockwall,1,Texas
+1982,Rockwell,1,North Carolina
+1983,Rockwood,1,Tennessee
+1984,Rocky Mount,1,North Carolina
+1987,Rohtak,7,Haryana
+1988,Roland,1,Oklahoma
+1989,Rome,63,Lazio
+1990,Rome,1,Georgia
+1991,"Rome, GA",1,Georgia
+1992,Roosevelt,1,Montana
+1993,Rosalia,1,Washington
+1994,Rosarito,1,Country Of Mexico
+1995,Rosebud,1,Montana
+1996,Roseburg,1,Oregon
+1997,Rosemount,1,Minnesota
+1998,Roseville,1,California
+1999,Roswell,1,New Mexico
+2000,"Roswell, NM",1,New Mexico
+2001,Round Top,1,Texas
+2002,Rourkela,7,Odisha
+2004,Roxborough Park,1,Colorado
+2005,Royal Palm Beach,1,Florida
+2007,Rubidoux,1,California
+2009,Ruidoso,1,New Mexico
+2010,Rumford (census name for Rumford Compact),1,Maine
+2011,Rupnagar,7,Punjab
+2012,Ruskin,1,Florida
+2013,Russellville,1,Arkansas
+2014,Rutland,1,Vermont
+2015,Rye,1,New Hampshire
+2016,SONORA,1,Country Of Mexico
+2017,Sacaton,1,Arizona
+2018,Sacramento,1,California
+2019,"Sacramento--Roseville--Arden-Arcade, CA",1,California
+2021,Sagar,7,Madhya Pradesh
+2025,Saint Marks,1,Florida
+2026,Saint Petersburg,1,Florida
+2027,Sainte Genevieve,1,Missouri
+2028,Salem,7,Tamil Nadu
+2029,Salem,1,Oregon
+2030,Salinas,1,California
+2032,Salt Lake City,1,Utah
+2033,"Salt Lake City, UT",1,Utah
+2036,Sambalpur,7,Odisha
+2037,San Andreas,1,California
+2038,San Antonio,1,Texas
+2039,"San Antonio-New Braunfels, TX",1,Texas
+2041,San Bernardino,1,California
+2042,San Diego,1,California
+2043,San Francisco,1,California
+2044,"San Francisco-Oakland-Hayward, CA",1,California
+2045,San Jose,72,San Jose
+2046,San Jose,1,California
+2047,"San Jose-Sunnyvale-Santa Clara, CA",1,California
+2048,San Juan,1,Colorado
+2049,"San Juan-Carolina-Caguas, PR",1,Puerto Rico
+2050,San Luis Obispo,1,California
+2051,"San Luis Obispo-Paso Robles-Arroyo Grande, CA",1,California
+2053,San Martin,1,California
+2054,San Pablo,1,California
+2055,San Rafael,1,California
+2056,San Ramon,1,California
+2057,Sand Point,1,Alaska
+2058,Sanders,1,Montana
+2059,Sandersville,1,Georgia
+2060,Sandpoint,1,Idaho
+2061,Sanford,1,Florida
+2063,Sangli,7,Maharashtra
+2068,Santa Ana Pueblo,1,New Mexico
+2069,Santa Barbara,1,California
+2070,Santa Clarita,1,California
+2071,"Santa Cruz-Watsonville, CA",1,California
+2072,Santa Fe,1,New Mexico
+2073,"Santa Fe, NM",1,New Mexico
+2074,Santa Maria,1,California
+2075,"Santa Maria-Santa Barbara, CA",1,California
+2076,Santa Rosa,1,California
+2077,Santiago,73,Santiago
+2078,Sao Paulo,20,Sao Paulo
+2081,Sarasota,1,Florida
+2084,Satna,7,Madhya Pradesh
+2085,Sault Ste. Marie,1,Michigan
+2086,"Sault Ste. Marie, MI",1,Michigan
+2087,Savannah,1,Georgia
+2089,"Sayre, PA",1,Pennsylvania
+2091,Schenectady,1,New York
+2092,Schiller Park,1,Illinois
+2093,Schoolcraft,1,Michigan
+2094,Schurz,1,Nevada
+2095,Scotts Valley,1,California
+2096,Scottsbluff,1,Nebraska
+2097,"Scottsbluff, NE",1,Nebraska
+2098,Scottsdale,1,Arizona
+2099,Scottville,1,Michigan
+2100,Scranton,1,Pennsylvania
+2101,Seabrook,1,Texas
+2102,Seaford,1,Delaware
+2103,Searcy,1,Arkansas
+2104,Searles Valley,1,California
+2105,Seattle,1,Washington
+2106,"Seattle-Tacoma-Bellevue, WA",1,Washington
+2107,"Sebastian-Vero Beach, FL",1,Florida
+2108,Sebastopol,1,California
+2109,Sebring,1,Florida
+2111,Seeley Lake,1,Montana
+2112,Seiling,1,Oklahoma
+2113,Selma,1,Texas
+2115,"Seneca, SC",1,South Carolina
+2116,Seoul,28,Seoul
+2117,Sequoia National Park,1,California
+2119,Seven Oaks,1,South Carolina
+2120,"Sevierville, TN",1,Tennessee
+2121,"Seymour, IN",1,Indiana
+2122,Shady Cove,1,Oregon
+2123,Shadyside,1,Ohio
+2124,Shafter,1,California
+2125,Shakopee,1,Minnesota
+2126,Shanghai,18,Shanghai
+2128,Shasta Lake,1,California
+2129,Sheboygan,1,Wisconsin
+2130,"Sheboygan, WI",1,Wisconsin
+2131,Sheffield,1,Ohio
+2132,Shelton,1,Washington
+2134,Shenyang,18,Liaoning
+2135,Shenzhen,18,Guangdong
+2137,Shepherdsville,1,Kentucky
+2138,Sheridan,1,Montana
+2139,"Sheridan, WY",1,Wyoming
+2140,Shillong,7,Meghalaya
+2141,Shimla,7,Himachal Pradesh
+2142,Shiprock,1,New Mexico
+2143,Shivamogga,7,Karnataka
+2145,"Show Low, AZ",1,Arizona
+2146,Shreveport,1,Louisiana
+2147,"Shreveport-Bossier City, LA",1,Louisiana
+2148,"Sierra Vista-Douglas, AZ",1,Arizona
+2150,Silchar,7,Assam
+2151,Siliguri,7,West Bengal
+2155,Silver Bay,1,Minnesota
+2156,Silver City,1,New Mexico
+2158,Silverton,1,Oregon
+2159,Simi Valley,1,California
+2160,Simpsonville,1,South Carolina
+2161,Sinclair,1,Wyoming
+2162,Singapore,74,Singapore
+2163,Singrauli,7,Madhya Pradesh
+2165,Sioux City,1,Iowa
+2166,"Sioux City, IA-NE-SD",1,South Dakota
+2167,Sioux Falls,1,South Dakota
+2171,Sisters,1,Oregon
+2173,Sivasagar,7,Assam
+2175,Skiatook,1,Oklahoma
+2177,Slater,1,Iowa
+2178,Slinger,1,Wisconsin
+2179,Smithfield,1,Utah
+2180,Smithland,1,Kentucky
+2181,Smiths Grove,1,Kentucky
+2182,Snoqualmie Pass,1,Washington
+2183,Socorro,1,New Mexico
+2184,Soda Springs,1,Idaho
+2185,Soddy-Daisy,1,Tennessee
+2186,Solapur,7,Maharashtra
+2188,Somerset,1,Kentucky
+2189,"Somerset, PA",1,Pennsylvania
+2190,Sonipat,7,Haryana
+2191,SONORA,1,California
+2192,South Bend,1,Indiana
+2193,"South Bend-Mishawaka, IN-MI",1,Indiana
+2194,South Charleston,1,West Virginia
+2196,South Hill,1,Washington
+2197,South Lake Tahoe,1,California
+2198,South Padre Island,1,Texas
+2199,South Roxana,1,Illinois
+2200,South Tucson,1,Arizona
+2201,South Valley,1,New Mexico
+2202,Southglenn,1,Colorado
+2204,Southside,1,Alabama
+2205,Spanish Fork,1,Utah
+2206,Sparks,1,Nevada
+2207,Spartanburg,1,South Carolina
+2208,"Spartanburg, SC",1,South Carolina
+2210,Spokane,1,Washington
+2211,"Spokane-Spokane Valley, WA",1,Washington
+2213,Spring Valley,1,Nevada
+2214,Springdale,1,Pennsylvania
+2215,Springfield,1,Illinois
+2216,"Springfield, IL",1,Illinois
+2217,"Springfield, MO",1,Missouri
+2218,Spruce Pine,1,North Carolina
+2223,St Croix,1,Virgin Islands
+2224,St John,1,Virgin Islands
+2226,St. Cloud,1,Minnesota
+2227,St. Gabriel,1,Louisiana
+2229,St. Joseph,1,Missouri
+2230,"St. Joseph, MO-KS",1,Missouri
+2231,St. Louis,1,Missouri
+2232,St. Louis Park,1,Minnesota
+2233,"St. Louis, MO-IL",1,Illinois
+2234,St. Martinville,1,Louisiana
+2235,"St. Marys, PA",1,Pennsylvania
+2236,St. Michael,1,Minnesota
+2237,St. Paul,1,Minnesota
+2238,St. Paul Park,1,Minnesota
+2239,Stafford (Stafford Hollow),1,Connecticut
+2241,Stanfield,1,Arizona
+2242,State College,1,Pennsylvania
+2243,"State College, PA",1,Pennsylvania
+2244,Stateline,1,Nevada
+2245,Ste. Genevieve,1,Missouri
+2246,Steamboat Springs,1,Colorado
+2247,Steubenville,1,Ohio
+2248,Stockholm,75,Stockholm
+2249,Stockton,1,California
+2250,Stoddard,1,Missouri
+2251,Stow,1,Massachusetts
+2253,Stratford (Town of),1,Connecticut
+2255,Stuart,1,Florida
+2256,Stuttgart,1,Arkansas
+2259,Sublette,1,Wyoming
+2260,Suffolk,1,Virginia
+2261,Sugarcreek,1,Ohio
+2262,Summerville,1,Georgia
+2263,Summit,1,Illinois
+2264,Sumter,1,Alabama
+2265,Suncook,1,New Hampshire
+2266,Sunder Nagar,7,Himachal Pradesh
+2267,Sunnyside,1,Washington
+2269,Sunrise Manor,1,Nevada
+2271,Surabaya,46,East Java
+2272,Surat,7,Gujarat
+2274,Surprise,1,Arizona
+2275,Sutter,1,California
+2276,Swain,1,North Carolina
+2277,Swansea,1,Illinois
+2278,Sweet Home,1,Oregon
+2279,Sydney,6,NSW
+2280,Syracuse,1,New York
+2281,"Syracuse, NY",1,New York
+2282,Tacoma,1,Washington
+2283,Tahoe City,1,California
+2284,Taholah,1,Washington
+2285,Taipei,50,Taipei
+2286,Talcher,7,Odisha
+2288,Tallahassee,1,Florida
+2289,"Tallahassee, FL",1,Florida
+2291,Tampa,1,Florida
+2292,Taos,1,New Mexico
+2293,"Taos, NM",1,New Mexico
+2296,Tarpon Springs,1,Florida
+2297,Tarrant (corporate name for Tarrant City),1,Alabama
+2298,Tatum,1,Texas
+2299,Taylor,1,Wisconsin
+2300,Taylors,1,South Carolina
+2301,Taylorsville,1,North Carolina
+2303,Tecate,1,Country Of Mexico
+2304,Tecumseh,1,Michigan
+2305,Tehran,44,Tehran
+2306,Tel Aviv,48,Tel Aviv
+2307,Tell City,1,Indiana
+2308,Telluride,1,Colorado
+2309,Tempe,1,Arizona
+2310,Temple,1,Texas
+2312,Terre Haute,1,Indiana
+2313,"Terre Haute, IN",1,Indiana
+2314,Texarkana,1,Texas
+2315,Texas City,1,Texas
+2316,Tezpur,7,Assam
+2317,Thane,7,Maharashtra
+2319,The Dalles,1,Oregon
+2321,Theodore,1,Alabama
+2322,Thibodaux,1,Louisiana
+2324,Thiruvananthapuram,7,Kerala
+2325,Thomas,1,Nebraska
+2326,Thomasboro,1,Illinois
+2328,Thompson Falls,1,Montana
+2329,Thoothukudi,7,Tamil Nadu
+2330,Thousand Oaks,1,California
+2331,Thrissur,7,Kerala
+2333,Tianjin,18,Tianjin
+2334,Tijuana,1,Country Of Mexico
+2336,Tinsukia,7,Assam
+2337,Tioga,1,Pennsylvania
+2339,Tiruchirappalli,7,Tamil Nadu
+2342,Tirupati,7,Andhra Pradesh
+2347,Tokyo,66,Tokyo
+2348,Toledo,1,Ohio
+2349,"Toledo, OH",1,Ohio
+2350,Tomball,1,Texas
+2351,Toms River,1,New Jersey
+2352,Tonawanda,1,New York
+2354,Tonto National Monument,1,Arizona
+2355,Tooele,1,Utah
+2356,Topeka,1,Kansas
+2357,Toppenish,1,Washington
+2358,Toronto,29,Ontario
+2359,Torres-Martinez I.R.,1,California
+2362,Tracy,1,California
+2363,Trafalgar,1,Indiana
+2364,Trapper Creek,1,Alaska
+2366,Trego,1,Kansas
+2367,Trenton,1,New Jersey
+2368,"Trenton, NJ",1,New Jersey
+2370,Trimble,1,Missouri
+2371,Trinity,1,California
+2374,Truckee,1,California
+2375,"Truckee-Grass Valley, CA",1,California
+2376,Truro,1,Massachusetts
+2377,Tualatin,1,Oregon
+2378,Tucker,1,Georgia
+2379,Tucson,1,Arizona
+2380,"Tucson, AZ",1,Arizona
+2383,Tulalip Bay,1,Washington
+2384,Tulsa,1,Oklahoma
+2387,Tunis,76,Tunis
+2389,Tupelo,1,Mississippi
+2390,Tura,7,Meghalaya
+2391,Turlock,1,California
+2392,Turner,1,Oregon
+2393,Tuscaloosa,1,Alabama
+2394,Tuscola,1,Michigan
+2395,Twin Falls,1,Idaho
+2396,"Twin Falls, ID",1,Idaho
+2397,Twisp,1,Washington
+2398,Tyler,1,Texas
+2399,Udaipur,7,Rajasthan
+2402,Ujjain,7,Madhya Pradesh
+2403,Ukiah,1,California
+2404,Ulaanbaatar,77,Ulaanbaatar
+2405,Ulhasnagar,7,Maharashtra
+2408,Una,7,Himachal Pradesh
+2409,Underhill (Town of),1,Vermont
+2410,Union City,1,New Jersey
+2413,Upland,1,California
+2414,"Urban Honolulu, HI",1,Hawaii
+2418,Utica,1,New York
+2419,"Utica-Rome, NY",1,New York
+2421,Uxbridge,1,Massachusetts
+2422,Vacaville,1,California
+2423,Vadodara,7,Gujarat
+2424,Valdosta,1,Georgia
+2425,Vallejo,1,California
+2426,Valrico,1,Florida
+2427,Van Buren,1,Iowa
+2429,Vancouver,29,BC
+2430,Vancouver,1,Washington
+2431,Vandenberg Air Force Base,1,California
+2432,Vapi,7,Gujarat
+2433,Varanasi,7,Uttar Pradesh
+2435,Vasco,7,Goa
+2439,Venice,1,Florida
+2440,Ventura,1,California
+2441,Vernal,1,Utah
+2442,"Vernal, UT",1,Utah
+2443,Vernon,1,Wisconsin
+2444,Victoria,1,Texas
+2445,Victorville,1,California
+2447,Vienna,78,Vienna
+2448,Vienna,1,West Virginia
+2449,Vijayapura,7,Karnataka
+2450,Vijayawada,7,Andhra Pradesh
+2451,Vilas,1,Wisconsin
+2453,"Vincennes, IN",1,Indiana
+2454,Vinton,1,Louisiana
+2456,Virgin,1,Utah
+2457,Virginia,1,Minnesota
+2458,Virginia Beach,1,Virginia
+2460,Visakhapatnam,7,Andhra Pradesh
+2461,Visalia,1,California
+2462,"Visalia-Porterville, CA",1,California
+2465,Wabash,1,Illinois
+2466,"Wabash, IN",1,Indiana
+2467,Waco,1,Texas
+2468,Wade,1,North Carolina
+2469,Wadsworth,1,Nevada
+2471,Walla Walla,1,Washington
+2472,"Walla Walla, WA",1,Washington
+2473,Waller,1,Washington
+2474,Wallowa,1,Oregon
+2475,"Walterboro, SC",1,South Carolina
+2476,Walters,1,Oklahoma
+2477,Wanaque (Wanaque-Midvale),1,New Jersey
+2478,Warangal,7,Andhra Pradesh
+2479,Ware (census name for Ware Center),1,Massachusetts
+2481,Warner Robins,1,Georgia
+2482,Warren,1,Michigan
+2483,"Warren, PA",1,Pennsylvania
+2484,Warrensville Heights,1,Ohio
+2485,Warsaw,54,Masovia
+2486,Washington,1,District Of Columbia
+2487,"Washington Court House, OH",1,Ohio
+2489,"Washington, IN",1,Indiana
+2490,"Washington-Arlington-Alexandria, DC-VA-MD-WV",1,Maryland
+2491,Wasilla,1,Alaska
+2492,Waterbury,1,Connecticut
+2493,Waterloo,1,Iowa
+2494,Watertown,1,South Dakota
+2495,"Watertown-Fort Atkinson, WI",1,Wisconsin
+2496,"Watertown-Fort Drum, NY",1,New York
+2497,Waterville,1,Ohio
+2498,Watsonville,1,California
+2499,Waukegan,1,Illinois
+2500,Waukesha,1,Wisconsin
+2501,Waurika,1,Oklahoma
+2502,"Wausau, WI",1,Wisconsin
+2503,Waveland,1,Mississippi
+2504,Waverly,1,Iowa
+2506,Wayne,1,Utah
+2507,Waynesville,1,North Carolina
+2508,Weatherford,1,Texas
+2509,Weaverville,1,California
+2510,Weeping Water,1,Nebraska
+2511,Weirton,1,West Virginia
+2512,"Weirton-Steubenville, WV-OH",1,Ohio
+2513,Welby,1,Colorado
+2514,Wellington,14,Wellington
+2515,Wenatchee,1,Washington
+2517,Wenden,1,Arizona
+2518,West Alton,1,Missouri
+2520,West Long Branch,1,New Jersey
+2521,West Los Angeles,1,California
+2522,West Orange,1,Texas
+2524,West Point,1,Virginia
+2525,West Sacramento,1,California
+2527,West Union,1,Ohio
+2528,West Valley City,1,Utah
+2529,West Wenatchee,1,Washington
+2532,Westfield,1,New York
+2533,Westlake (RR name West Lake),1,Louisiana
+2534,Westmorland,1,California
+2535,Weston,1,Wyoming
+2536,Westport,1,Connecticut
+2537,Wetumpka,1,Alabama
+2538,Wheatfield,1,Indiana
+2539,Wheeling,1,West Virginia
+2540,White Pine,1,Nevada
+2541,White Plains,1,New York
+2542,White Settlement,1,Texas
+2543,White Springs,1,Florida
+2544,White Swan,1,Washington
+2545,Whitefish,1,Montana
+2546,Whiteriver,1,Arizona
+2547,"Whitewater-Elkhorn, WI",1,Wisconsin
+2548,Whiting,1,Indiana
+2549,Wichita,1,Kansas
+2550,Wichita Falls,1,Texas
+2551,"Wichita, KS",1,Kansas
+2552,Wilkes-Barre,1,Pennsylvania
+2553,Wilkinsburg,1,Pennsylvania
+2555,Williston,1,North Dakota
+2556,"Williston, ND",1,North Dakota
+2557,Willits,1,California
+2559,Wilmington,1,Delaware
+2560,"Wilmington, NC",1,North Carolina
+2561,"Wilmington, OH",1,Ohio
+2562,Wilson,1,Pennsylvania
+2563,Winchester,1,Virginia
+2564,"Winchester, VA-WV",1,Virginia
+2565,Windham,1,Vermont
+2566,Winn,1,Louisiana
+2567,"Winona, MN",1,Minnesota
+2568,Winslow (Township of),1,New Jersey
+2569,Winston-Salem,1,North Carolina
+2570,"Winston-Salem, NC",1,North Carolina
+2571,Winter Park,1,Florida
+2572,Winthrop,1,Washington
+2573,Wood River,1,Illinois
+2574,Woodland,1,California
+2575,Worcester,1,Massachusetts
+2576,"Worcester, MA-CT",1,Connecticut
+2577,Worthington,1,Kentucky
+2578,Wrangell Petersburg,1,Alaska
+2579,Wright,1,Wyoming
+2580,Wuhan,18,Hubei
+2581,Wyandotte,1,Michigan
+2582,Wythe,1,Virginia
+2583,Xenia,1,Ohio
+2584,Xian,18,Shaanxi
+2585,Yacolt,1,Washington
+2586,Yadgir,7,Karnataka
+2587,Yakima,1,Washington
+2588,Yalobusha,1,Mississippi
+2590,Yancey,1,North Carolina
+2591,Yangon,79,Yangon
+2592,Yellow Springs,1,Ohio
+2593,Yelm,1,Washington
+2594,Yokohama,66,Kanagawa
+2595,York,1,Pennsylvania
+2596,"York-Hanover, PA",1,Pennsylvania
+2597,Yosemite National Park,1,California
+2598,Yosemite Valley,1,California
+2599,Young,1,Arizona
+2600,Youngstown,1,Ohio
+2601,"Youngstown-Warren-Boardman, OH-PA",1,Ohio
+2602,Ypsilanti,1,Michigan
+2603,Yreka,1,California
+2604,Yuba City,1,California
+2605,Yukon,1,Oklahoma
+2606,Yulee,1,Florida
+2607,Yuma,1,Arizona
+2609,Zion,1,Illinois
+2610,Zurich,80,Zurich
