@@ -83,7 +83,7 @@ View the demographic context for each city (urbanization, population, industrial
 ## 📁 Repository Structure
 
 ```text
-BDA_CP/
+AQI/
 ├── README.md
 ├── requirements.txt
 ├── artifacts/                  # Generated JSON/CSV outputs (correlations, feature importance)
